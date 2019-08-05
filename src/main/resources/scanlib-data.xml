@@ -1,0 +1,3527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scanlib>
+  <lib id="demoiselle">
+    <kw>br.gov.frameworkdemoiselle.</kw>
+  </lib>
+  <lib id="maven">
+    <kw>org.apache.maven</kw>
+  </lib>
+  <lib id="plastic">
+    <kw>org.apache.tapestry5.internal.plastic.</kw>
+  </lib>
+  <lib id="plugin-common">
+    <kw>org.springframework.data.hadoop.impala.</kw>
+  </lib>
+  <lib id="easycommons">
+    <kw>com.ebmwebsourcing.easycommons.</kw>
+  </lib>
+  <lib id="reportng">
+    <kw>org.uncommons.reportng.</kw>
+  </lib>
+  <lib id="async-http-client">
+    <kw>com.ning.http.</kw>
+  </lib>
+  <lib id="hs4j">
+    <kw>com.google.code.hs4j.</kw>
+  </lib>
+  <lib id="java-image-scaling">
+    <kw>com.mortennobel.imagescaling.</kw>
+  </lib>
+  <lib id="mallet">
+    <kw>cc.mallet.</kw>
+  </lib>
+  <lib id="i18nlog">
+    <kw>mazz.i18n.</kw>
+  </lib>
+  <lib id="json-smart">
+    <kw>net.minidev.json.</kw>
+  </lib>
+  <lib id="radeox">
+    <kw>org.radeox.</kw>
+  </lib>
+  <lib id="parboiled">
+    <kw>org.parboiled.</kw>
+  </lib>
+  <lib id="es-jsr166e">
+    <kw>jsr166e.</kw>
+  </lib>
+  <lib id="hawtbuf">
+    <kw>org.fusesource.hawtbuf.</kw>
+  </lib>
+  <lib id="wsn-device-drivers-core">
+    <kw>de.uniluebeck.itm.wsn.drivers.core.</kw>
+  </lib>
+  <lib id="arquillian">
+    <kw>org.jboss.arquillian.</kw>
+  </lib>
+  <lib id="itmutils">
+    <kw>de.uniluebeck.itm.tr.util.</kw>
+  </lib>
+  <lib id="javax.persistence">
+    <kw>org.eclipse.persistence.javax.persistence.osgi.</kw>
+  </lib>
+  <lib id="com4j">
+    <kw>com4j.</kw>
+    <kw>com4j.util.</kw>
+  </lib>
+  <lib id="bval">
+    <kw>org.apache.bval.</kw>
+  </lib>
+  <lib id="oauth">
+    <kw>net.oauth.</kw>
+  </lib>
+  <lib id="wsrf-rl-services">
+    <kw>com.ebmwebsourcing.wsstar.wsrfrl.services.</kw>
+  </lib>
+  <lib id="jsyntaxpane">
+    <kw>jsyntaxpane.</kw>
+  </lib>
+  <lib id="cssparser">
+    <kw>com.steadystate.css.</kw>
+  </lib>
+  <lib id="monitor-api">
+    <kw>org.rioproject.monitor.</kw>
+  </lib>
+  <lib id="xmxsuperstar-lib">
+    <kw>com.xmxsuperstar.lib.</kw>
+  </lib>
+  <lib id="minecraft-server">
+    <kw>net.minecraft.server.</kw>
+  </lib>
+  <lib id="jt-utils">
+    <kw>org.jaitools.</kw>
+  </lib>
+  <lib id="org.eclipse.jdt.core">
+    <kw>org.eclipse.jdt.</kw>
+  </lib>
+  <lib id="caff">
+    <kw>org.cyclopsgroup.caff.</kw>
+  </lib>
+  <lib id="commons-beanutils">
+    <kw>org.apache.commons.beanutils.</kw>
+  </lib>
+  <lib id="akka-actor">
+    <kw>akka.</kw>
+  </lib>
+  <lib id="ebean">
+    <kw>com.avaje.ebean</kw>
+  </lib>
+  <lib id="wsrf-rl-datatypes-api">
+    <kw>com.ebmwebsourcing.wsstar.resourcelifetime.datatypes.api.</kw>
+  </lib>
+  <lib id="plugin-pig">
+    <kw>org.springframework.data.hadoop.impala.pig.</kw>
+  </lib>
+  <lib id="mysql">
+    <kw>com.mysql.jdbc.</kw>
+  </lib>
+  <lib id="stringtemplate">
+    <kw>org.stringtemplate.</kw>
+  </lib>
+  <lib id="c3p0">
+    <kw>com.mchange.v2.</kw>
+  </lib>
+  <lib id="findbugs">
+    <kw>edu.umd.cs.findbugs.</kw>
+  </lib>
+  <lib id="jackcess">
+    <kw>com.healthmarketscience.jackcess.</kw>
+  </lib>
+  <lib id="activeio">
+    <kw>org.apache.activeio.</kw>
+  </lib>
+  <lib id="javatar">
+    <kw>com.ice.tar.</kw>
+  </lib>
+  <lib id="jutils">
+    <kw>net.java.games.util.</kw>
+  </lib>
+  <lib id="ant-contrib">
+    <kw>net.sf.antcontrib.</kw>
+  </lib>
+  <lib id="thumbnailator">
+    <kw>net.coobird.thumbnailator.</kw>
+  </lib>
+  <lib id="staxmate">
+    <kw>org.codehaus.staxmate.</kw>
+  </lib>
+  <lib id="narya">
+    <kw>com.threerings</kw>
+  </lib>
+  <lib id="imageinfo">
+    <kw>org.devlib.schmidt.imageinfo.</kw>
+  </lib>
+  <lib id="genobyte">
+    <kw>org.obiba.</kw>
+  </lib>
+  <lib id="minlog">
+    <kw>com.esotericsoftware.minlog.</kw>
+  </lib>
+  <lib id="NettyExtension">
+    <kw>org.jboss.netty.example.http2.snoop.</kw>
+  </lib>
+  <lib id="jcifs">
+    <kw>jcifs.</kw>
+  </lib>
+  <lib id="openid4java-nodeps">
+    <kw>org.openid4java.</kw>
+  </lib>
+  <lib id="sonar">
+    <kw>org.sonar</kw>
+  </lib>
+  <lib id="java-getopt">
+    <kw>gnu.getopt.</kw>
+  </lib>
+  <lib id="laf-plugin">
+    <kw>org.pushingpixels.lafplugin.</kw>
+  </lib>
+  <lib id="java-cup">
+    <kw>java_cup.</kw>
+  </lib>
+  <lib id="mycila-guice">
+    <kw>com.mycila.inject.</kw>
+  </lib>
+  <lib id="jdbi">
+    <kw>org.skife.jdbi.</kw>
+  </lib>
+  <lib id="library">
+    <kw>com.directionalviewpager.</kw>
+  </lib>
+  <lib id="jdbm">
+    <kw>jdbm.</kw>
+  </lib>
+  <lib id="empire-db">
+    <kw>org.apache.empire.</kw>
+  </lib>
+  <lib id="picketbox-ldap">
+    <kw>org.picketbox.ldap.</kw>
+  </lib>
+  <lib id="jolokia">
+    <kw>org.jolokia.</kw>
+  </lib>
+  <lib id="jinput">
+    <kw>net.java.games.input.</kw>
+  </lib>
+  <lib id="junit-addons">
+    <kw>junitx.</kw>
+  </lib>
+  <lib id="db-support">
+    <kw>com.carbonfive.db</kw>
+  </lib>
+  <lib id="applejavaextensions">
+    <kw>com.apple.eawt.</kw>
+  </lib>
+  <lib id="jbosgi">
+    <kw>org.jboss.osgi.</kw>
+  </lib>
+  <lib id="libzfs">
+    <kw>org.jvnet.solaris.</kw>
+  </lib>
+  <lib id="joda-time">
+    <kw>org.joda.time.</kw>
+  </lib>
+  <lib id="joni">
+    <kw>org.joni.</kw>
+  </lib>
+  <lib id="ejml">
+    <kw>org.ejml.</kw>
+  </lib>
+  <lib id="commons-validator">
+    <kw>org.apache.commons.validator.</kw>
+  </lib>
+  <lib id="test-jetty-servlet">
+    <kw>org.eclipse.jetty.testing.</kw>
+  </lib>
+  <lib id="bee-encode">
+    <kw>org.ardverk.coding.</kw>
+  </lib>
+  <lib id="jactor">
+    <kw>org.agilewiki.jactor.</kw>
+  </lib>
+  <lib id="flexjson">
+    <kw>flexjson.</kw>
+  </lib>
+  <lib id="jaxme">
+    <kw>org.apache.ws.jaxme.</kw>
+  </lib>
+  <lib id="nutch">
+    <kw>org.apache.nutch.</kw>
+  </lib>
+  <lib id="sigar">
+    <kw>org.hyperic.</kw>
+  </lib>
+  <lib id="vijava">
+    <kw>com.vmware.vim</kw>
+  </lib>
+  <lib id="pcj">
+    <kw>bak.pcj.</kw>
+  </lib>
+  <lib id="rayo">
+    <kw>com.rayo.c</kw>
+  </lib>
+  <lib id="joox">
+    <kw>org.joox.</kw>
+  </lib>
+  <lib id="joou">
+    <kw>org.joou.</kw>
+  </lib>
+  <lib id="cybernode">
+    <kw>org.rioproject.cybernode.</kw>
+  </lib>
+  <lib id="janbanery">
+    <kw>pl.project13.janbanery.</kw>
+  </lib>
+  <lib id="caliper">
+    <kw>com.google.caliper.</kw>
+  </lib>
+  <lib id="jsmaa-lib">
+    <kw>fi.smaa.</kw>
+  </lib>
+  <lib id="bluecove">
+    <kw>com.intel.bluetooth</kw>
+  </lib>
+  <lib id="wsdl4j">
+    <kw>com.ibm.wsdl.</kw>
+  </lib>
+  <lib id="commons-jelly">
+    <kw>org.apache.commons.jelly.</kw>
+  </lib>
+  <lib id="carol">
+    <kw>org.ow2.carol.</kw>
+    <kw>org.objectweb.carol.</kw>
+  </lib>
+  <lib id="jqplot4java">
+    <kw>br.com.digilabs.jqplot.</kw>
+  </lib>
+  <lib id="sanselan">
+    <kw>org.apache.sanselan.</kw>
+  </lib>
+  <lib id="node">
+    <kw>com.proofpoint.node.</kw>
+  </lib>
+  <lib id="wsrf-rp-datatypes-api">
+    <kw>com.ebmwebsourcing.wsstar.resourceproperties.datatypes.api.</kw>
+  </lib>
+  <lib id="dao">
+    <kw>com.googlecode.genericdao.dao.</kw>
+  </lib>
+  <lib id="infinispan">
+    <kw>org.infinispan.</kw>
+  </lib>
+  <lib id="jena-iri">
+    <kw>org.apache.jena.iri.</kw>
+  </lib>
+  <lib id="hsqldb">
+    <kw>org.hsqldb.</kw>
+  </lib>
+  <lib id="switchyard">
+    <kw>org.switchyard.</kw>
+  </lib>
+  <lib id="j2ssh">
+    <kw>com.sshtools.j2ssh.</kw>
+  </lib>
+  <lib id="archetype-common">
+    <kw>org.apache.maven.archetype.</kw>
+  </lib>
+  <lib id="pdfbox">
+    <kw>org.pdfbox.</kw>
+    <kw>org.apache.pdfbox.</kw>
+  </lib>
+  <lib id="reflections">
+    <kw>org.reflections.</kw>
+  </lib>
+  <lib id="diffutils">
+    <kw>difflib.</kw>
+  </lib>
+  <lib id="mogwee">
+    <kw>com.mogwee.</kw>
+  </lib>
+  <lib id="jboss">
+    <kw>org.jboss.metadata.</kw>
+  </lib>
+  <lib id="gwt-image-loader">
+    <kw>com.reveregroup.gwt.imagepreloader.</kw>
+  </lib>
+  <lib id="roboguice">
+    <kw>roboguice.</kw>
+  </lib>
+  <lib id="crnickl">
+    <kw>ch.agent.crnickl.</kw>
+  </lib>
+  <lib id="deltaspike">
+    <kw>org.apache.deltaspike.core.</kw>
+  </lib>
+  <lib id="pax">
+    <kw>org.ops4j.pax.</kw>
+  </lib>
+  <lib id="grap">
+    <kw>org.grap.</kw>
+  </lib>
+  <lib id="AppSensor">
+    <kw>org.owasp.appsensor.</kw>
+  </lib>
+  <lib id="SteelSeries">
+    <kw>eu.hansolo.steelseries.</kw>
+  </lib>
+  <lib id="binding-framework">
+    <kw>org.ebayopensource.turmeric.runtime.binding.</kw>
+  </lib>
+  <lib id="xmppservlet-api">
+    <kw>com.voxeo.servlet.xmpp.</kw>
+  </lib>
+  <lib id="wicket">
+    <kw>org.apache.wicket.</kw>
+  </lib>
+  <lib id="xapool">
+    <kw>org.enhydra.jdbc.</kw>
+  </lib>
+  <lib id="access-control">
+    <kw>org.archive.accesscontrol.</kw>
+  </lib>
+  <lib id="jrobin">
+    <kw>org.jrobin.</kw>
+  </lib>
+  <lib id="axis">
+    <kw>org.apache.axis.</kw>
+  </lib>
+  <lib id="xerces">
+    <kw>org.apache.xerces</kw>
+  </lib>
+  <lib id="openide-lookup">
+    <kw>org.openide.</kw>
+  </lib>
+  <lib id="smackx">
+    <kw>org.jivesoftware.smackx.</kw>
+  </lib>
+  <lib id="javamelody">
+    <kw>net.bull.javamelody.</kw>
+  </lib>
+  <lib id="akka-remote">
+    <kw>akka.remote.</kw>
+  </lib>
+  <lib id="httpilot">
+    <kw>httpilot.</kw>
+  </lib>
+  <lib id="IntelliJIdea">
+    <kw>com.intellij.</kw>
+  </lib>
+  <lib id="requestfactory">
+    <kw>com.google.web.bindery.</kw>
+  </lib>
+  <lib id="izpack-standalone-compiler">
+    <kw>com.izforge.izpack.</kw>
+  </lib>
+  <lib id="blazeds">
+    <kw>flex.</kw>
+  </lib>
+  <lib id="jglobus">
+    <kw>org.globus</kw>
+  </lib>
+  <lib id="java-allocation-instrumenter">
+    <kw>com.google.monitoring.runtime.instrumentation.</kw>
+  </lib>
+  <lib id="microemulator">
+    <kw>org.microemu.</kw>
+  </lib>
+  <lib id="indextank-java">
+    <kw>com.flaptor.indextank.apiclient.</kw>
+  </lib>
+  <lib id="doxia">
+    <kw>org.codehaus.doxia.</kw>
+  </lib>
+  <lib id="excalibur">
+    <kw>org.apache.excalibur.</kw>
+  </lib>
+  <lib id="xjavadoc">
+    <kw>xjavadoc.</kw>
+  </lib>
+  <lib id="tlbimp">
+    <kw>com4j.tlbimp.</kw>
+  </lib>
+  <lib id="werken-xpath">
+    <kw>com.werken.xpath.</kw>
+  </lib>
+  <lib id="selenium">
+    <kw>org.openqa.selenium</kw>
+  </lib>
+  <lib id="unboundid-ldapsdk">
+    <kw>com.unboundid.</kw>
+  </lib>
+  <lib id="jffi">
+    <kw>com.kenai.jffi.</kw>
+  </lib>
+  <lib id="sisu-inject">
+    <kw>org.sonatype.inject.</kw>
+    <kw>org.sonatype.guice.</kw>
+  </lib>
+  <lib id="plugin-hdfs">
+    <kw>org.springframework.data.hadoop.impala.hdfs.</kw>
+  </lib>
+  <lib id="wsn-b-datatypes-api">
+    <kw>com.ebmwebsourcing.wsstar.basenotification.datatypes.api.</kw>
+  </lib>
+  <lib id="redline">
+    <kw>org.freecompany.redline.</kw>
+  </lib>
+  <lib id="rewrite">
+    <kw>org.ocpsoft.rewrite.</kw>
+  </lib>
+  <lib id="htmlunit">
+    <kw>com.gargoylesoftware.htmlunit.</kw>
+  </lib>
+  <lib id="http-server">
+    <kw>com.proofpoint.http.server.</kw>
+  </lib>
+  <lib id="httpunit">
+    <kw>com.meterware.</kw>
+  </lib>
+  <lib id="http-self-wrap-proxy-httpclient">
+    <kw>com.xmxsuperstar.app.hswp.android.httpclient.</kw>
+  </lib>
+  <lib id="constantine">
+    <kw>com.kenai.constantine.</kw>
+  </lib>
+  <lib id="eigenbase-xom">
+    <kw>org.eigenbase.xom.</kw>
+  </lib>
+  <lib id="jchardet">
+    <kw>org.mozilla.intl.chardet.</kw>
+  </lib>
+  <lib id="gmock">
+    <kw>org.gmock.</kw>
+  </lib>
+  <lib id="awaitility">
+    <kw>com.jayway.awaitility.</kw>
+  </lib>
+  <lib id="model-builder">
+    <kw>org.apache.maven.shared.model.</kw>
+  </lib>
+  <lib id="jansi">
+    <kw>org.fusesource.jansi.</kw>
+  </lib>
+  <lib id="jibx">
+    <kw>org.jibx.</kw>
+  </lib>
+  <lib id="mckoi">
+    <kw>com.mckoi.</kw>
+  </lib>
+  <lib id="bndlib">
+    <kw>aQute.</kw>
+  </lib>
+  <lib id="concordion-extensions">
+    <kw>org.concordion.ext.</kw>
+  </lib>
+  <lib id="research-util">
+    <kw>com.ebmwebsourcing.easycommons.research.util.</kw>
+  </lib>
+  <lib id="jocl">
+    <kw>org.jocl.</kw>
+  </lib>
+  <lib id="commons-codec">
+    <kw>org.apache.commons.codec.</kw>
+  </lib>
+  <lib id="dojo-shrinksafe">
+    <kw>org.dojotoolkit.shrinksafe.</kw>
+  </lib>
+  <lib id="filters">
+    <kw>com.jhlabs.</kw>
+  </lib>
+  <lib id="cognitive-foundry">
+    <kw>gov.sandia.cognition.</kw>
+  </lib>
+  <lib id="commons-primitives">
+    <kw>org.apache.commons.collections.primitives.</kw>
+  </lib>
+  <lib id="ch-commons">
+    <kw>com.cloudhopper.commons.</kw>
+  </lib>
+  <lib id="jaxb-xjc">
+    <kw>org.kohsuke.rngom.</kw>
+  </lib>
+  <lib id="simple-xml">
+    <kw>org.simpleframework.xml.</kw>
+  </lib>
+  <lib id="boilerpipe">
+    <kw>de.l3s.boilerpipe.</kw>
+  </lib>
+  <lib id="lombok">
+    <kw>lombok.</kw>
+  </lib>
+  <lib id="osgi-resource-locator">
+    <kw>org.glassfish.hk2.osgiresourcelocator.</kw>
+  </lib>
+  <lib id="gwt-presenter">
+    <kw>net.customware.gwt.presenter.client.</kw>
+  </lib>
+  <lib id="atdl4j-parser-xmlbeans">
+    <kw>br.com.investtools.fix.atdl.</kw>
+  </lib>
+  <lib id="gossip">
+    <kw>org.sonatype.gossip.</kw>
+  </lib>
+  <lib id="rxtx">
+    <kw>gnu.io.</kw>
+  </lib>
+  <lib id="depot">
+    <kw>com.samskivert.depot.</kw>
+  </lib>
+  <lib id="jtds">
+    <kw>net.sourceforge.jtds.</kw>
+  </lib>
+  <lib id="commons-exec">
+    <kw>org.apache.commons.exec.</kw>
+  </lib>
+  <lib id="jt-zonalstats">
+    <kw>org.jaitools.media.jai.zonalstats.</kw>
+  </lib>
+  <lib id="tinymce">
+    <kw>wicket.contrib.tinymce.</kw>
+  </lib>
+  <lib id="xmltooling">
+    <kw>org.opensaml.xml.</kw>
+  </lib>
+  <lib id="dozer">
+    <kw>org.dozer.</kw>
+  </lib>
+  <lib id="fastjson">
+    <kw>com.alibaba.fastjson.</kw>
+  </lib>
+  <lib id="stax">
+    <kw>com.bea.xml.stream.</kw>
+  </lib>
+  <lib id="wsn-b-services">
+    <kw>com.ebmwebsourcing.wsstar.wsnb.services.</kw>
+  </lib>
+  <lib id="easywsdl11">
+    <kw>com.ebmwebsourcing.easywsdl11.</kw>
+  </lib>
+  <lib id="pull-parser">
+    <kw>org.gjt.xpp.</kw>
+  </lib>
+  <lib id="odmg">
+    <kw>org.odmg.</kw>
+  </lib>
+  <lib id="jsr107cache">
+    <kw>net.sf.jsr107cache.</kw>
+  </lib>
+  <lib id="gf-embedded-api">
+    <kw>org.glassfish.embed.</kw>
+  </lib>
+  <lib id="xbean">
+    <kw>org.apache.xbean.</kw>
+  </lib>
+  <lib id="jpf">
+    <kw>org.java.plugin.</kw>
+  </lib>
+  <lib id="dbunit">
+    <kw>org.dbunit.</kw>
+  </lib>
+  <lib id="jaxen">
+    <kw>org.jaxen.</kw>
+  </lib>
+  <lib id="commonlib">
+    <kw>edu.washington.cs.knowitall.commonlib.</kw>
+  </lib>
+  <lib id="eclipselink">
+    <kw>org.eclipse.persistence.</kw>
+  </lib>
+  <lib id="castor">
+    <kw>org.castor.</kw>
+  </lib>
+  <lib id="logback">
+    <kw>ch.qos.logback.</kw>
+  </lib>
+  <lib id="symmetric-csv">
+    <kw>org.jumpmind.symmetric.csv.</kw>
+  </lib>
+  <lib id="martyr">
+    <kw>f00f.net.irc.martyr.</kw>
+  </lib>
+  <lib id="log4j">
+    <kw>org.apache.log4j.</kw>
+  </lib>
+  <lib id="couchdb4j">
+    <kw>com.fourspaces.couchdb.</kw>
+  </lib>
+  <lib id="tomahawk">
+    <kw>org.apache.myfaces.</kw>
+  </lib>
+  <lib id="clhm-production">
+    <kw>com.reardencommerce.kernel.collections.shared.evictable.</kw>
+  </lib>
+  <lib id="lucene">
+    <kw>org.apache.lucene.</kw>
+  </lib>
+  <lib id="hk2">
+    <kw>org.glassfish.hk2.</kw>
+  </lib>
+  <lib id="jmx-lookup">
+    <kw>net.jini.lookup.entry.</kw>
+  </lib>
+  <lib id="leveldbjni">
+    <kw>org.fusesource.leveldbjni.</kw>
+  </lib>
+  <lib id="redmine-java-api">
+    <kw>org.redmine.ta.</kw>
+  </lib>
+  <lib id="mqtt-client">
+    <kw>org.fusesource.mqtt.c</kw>
+  </lib>
+  <lib id="acra">
+    <kw>org.acra.</kw>
+  </lib>
+  <lib id="commons-discovery">
+    <kw>org.apache.commons.discovery.</kw>
+  </lib>
+  <lib id="mule">
+    <kw>org.mule.</kw>
+  </lib>
+  <lib id="apache-mina">
+    <kw>org.apache.mina.</kw>
+  </lib>
+  <lib id="plexus">
+    <kw>org.codehaus.plexus.</kw>
+    <kw>org.sonatype.plexus.</kw>
+  </lib>
+  <lib id="org.eclipse.xtend2.lib">
+    <kw>org.eclipse.xte</kw>
+  </lib>
+  <lib id="resin">
+    <kw>com.caucho.</kw>
+  </lib>
+  <lib id="openejb">
+    <kw>org.openejb.</kw>
+    <kw>org.apache.openejb.</kw>
+  </lib>
+  <lib id="jid">
+    <kw>org.agilewiki.jid.</kw>
+  </lib>
+  <lib id="jackrabbit">
+    <kw>org.apache.jackrabbit.</kw>
+  </lib>
+  <lib id="junrar">
+    <kw>com.github.junrar.</kw>
+  </lib>
+  <lib id="jdbc">
+    <kw>java.sql.</kw>
+  </lib>
+  <lib id="datecalc">
+    <kw>net.objectlab.kit.datecalc.</kw>
+  </lib>
+  <lib id="paxexam-karaf-container">
+    <kw>org.openengsb.labs.paxexam.karaf.container.internal.</kw>
+  </lib>
+  <lib id="mg4j">
+    <kw>it.unimi.dsi.mg4j.</kw>
+  </lib>
+  <lib id="testng">
+    <kw>org.testng.</kw>
+  </lib>
+  <lib id="cxf">
+    <kw>org.apache.cxf.</kw>
+  </lib>
+  <lib id="flanagan">
+    <kw>flanagan.</kw>
+  </lib>
+  <lib id="aspectjweaver">
+    <kw>org.aspectj.</kw>
+  </lib>
+  <lib id="jpattern-cojen">
+    <kw>com.jpattern.org.cojen.</kw>
+  </lib>
+  <lib id="classmate">
+    <kw>com.fasterxml.classmate.</kw>
+  </lib>
+  <lib id="surefire">
+    <kw>org.codehaus.surefire.</kw>
+  </lib>
+  <lib id="robotium-solo">
+    <kw>com.jayway.android.robotium.solo.</kw>
+  </lib>
+  <lib id="scalacheck">
+    <kw>org.scalacheck.</kw>
+  </lib>
+  <lib id="instant-messaging">
+    <kw>hudson.plugins.</kw>
+  </lib>
+  <lib id="commons-math">
+    <kw>org.apache.commons.math</kw>
+  </lib>
+  <lib id="webservices-rt">
+    <kw>org.jvnet.wom.</kw>
+  </lib>
+  <lib id="opennlp">
+    <kw>opennlp.</kw>
+  </lib>
+  <lib id="upnp-stack">
+    <kw>org.cybergarage.</kw>
+  </lib>
+  <lib id="cometd">
+    <kw>org.cometd.</kw>
+    <kw>org.mortbay.cometd.</kw>
+  </lib>
+  <lib id="osgi">
+    <kw>org.eclipse.osgi.</kw>
+    <kw>org.osgi.</kw>
+  </lib>
+  <lib id="extra166y">
+    <kw>extra166y.</kw>
+  </lib>
+  <lib id="scala">
+    <kw>scala.</kw>
+  </lib>
+  <lib id="cloudfoundry">
+    <kw>org.cloudfoundry.</kw>
+  </lib>
+  <lib id="seal">
+    <kw>dk.sosi.seal.</kw>
+  </lib>
+  <lib id="luna-dummy">
+    <kw>com.chrysalisits.crypto</kw>
+  </lib>
+  <lib id="jclouds">
+    <kw>org.jclouds.</kw>
+  </lib>
+  <lib id="xmldsign">
+    <kw>org.jcp.xml.dsig.internal.</kw>
+  </lib>
+  <lib id="seam">
+    <kw>org.jboss.seam.</kw>
+  </lib>
+  <lib id="easyb">
+    <kw>org.easyb.</kw>
+  </lib>
+  <lib id="janino">
+    <kw>org.codehaus.janino.</kw>
+  </lib>
+  <lib id="stax-utils">
+    <kw>javanet.staxutils.</kw>
+  </lib>
+  <lib id="metrics-yammer">
+    <kw>com.yammer.metrics.</kw>
+  </lib>
+  <lib id="xwork-core">
+    <kw>com.opensymphony.xwork2.</kw>
+  </lib>
+  <lib id="generic-reflection">
+    <kw>org.knappi.opensource.genericreflection.</kw>
+  </lib>
+  <lib id="ganymed-ssh">
+    <kw>ch.ethz.ssh2.</kw>
+  </lib>
+  <lib id="jodd">
+    <kw>jodd.</kw>
+  </lib>
+  <lib id="aduna-commons-collections">
+    <kw>info.aduna.collections.</kw>
+  </lib>
+  <lib id="rio">
+    <kw>org.rioproject.</kw>
+  </lib>
+  <lib id="jetlang">
+    <kw>org.jetlang.</kw>
+  </lib>
+  <lib id="gherkin">
+    <kw>gherkin.</kw>
+  </lib>
+  <lib id="org.apache.servicemix.specs.saaj-api">
+    <kw>org.apache.servicemix.specs.locator.</kw>
+  </lib>
+  <lib id="webwork">
+    <kw>com.opensymphony.webwork.</kw>
+  </lib>
+  <lib id="play">
+    <kw>play.</kw>
+  </lib>
+  <lib id="subethasmtp">
+    <kw>org.subethamail.</kw>
+  </lib>
+  <lib id="jnotify">
+    <kw>net.contentobjects.jnotify.</kw>
+  </lib>
+  <lib id="sqljet">
+    <kw>org.tmatesoft.sqljet.core.</kw>
+  </lib>
+  <lib id="pig">
+    <kw>org.apache.pig.</kw>
+  </lib>
+  <lib id="xmlrpc">
+    <kw>org.apache.xmlrpc.</kw>
+  </lib>
+  <lib id="microjiac">
+    <kw>de.jiac.micro.</kw>
+  </lib>
+  <lib id="speed4j">
+    <kw>com.ecyrd.speed4j.</kw>
+  </lib>
+  <lib id="fitlibrary">
+    <kw>fitlibrary.</kw>
+  </lib>
+  <lib id="guava">
+    <kw>com.google.common.</kw>
+  </lib>
+  <lib id="mp3spi">
+    <kw>javazoom.spi.</kw>
+  </lib>
+  <lib id="codegen">
+    <kw>com.mysema.codegen.</kw>
+  </lib>
+  <lib id="redstone">
+    <kw>redstone.xmlrpc.</kw>
+  </lib>
+  <lib id="sequence-library">
+    <kw>de.regnis.q.sequence.</kw>
+  </lib>
+  <lib id="marginalia">
+    <kw>marginalia.</kw>
+  </lib>
+  <lib id="mockrunner">
+    <kw>com.mockrunner.</kw>
+  </lib>
+  <lib id="jinterface">
+    <kw>com.ericsson.otp.erlang.</kw>
+  </lib>
+  <lib id="gshell-io">
+    <kw>org.sonatype.gshell.io.</kw>
+  </lib>
+  <lib id="ini4j">
+    <kw>org.ini4j.</kw>
+  </lib>
+  <lib id="commons-httpclient">
+    <kw>org.apache.commons.httpclient.</kw>
+  </lib>
+  <lib id="irmi">
+    <kw>org.ow2.carol.irmi.</kw>
+  </lib>
+  <lib id="icu4j">
+    <kw>com.ibm.icu.</kw>
+  </lib>
+  <lib id="softeu-rewriter">
+    <kw>cz.softeu.rewriter.</kw>
+  </lib>
+  <lib id="gwt-titanium">
+    <kw>org.urish.gwtit.</kw>
+  </lib>
+  <lib id="openwebbeans">
+    <kw>org.apache.webbeans.</kw>
+  </lib>
+  <lib id="cjcook-examples">
+    <kw>com.discursive.jccook.</kw>
+  </lib>
+  <lib id="plugin">
+    <kw>sun.plugin.</kw>
+  </lib>
+  <lib id="poi">
+    <kw>org.apache.poi.</kw>
+  </lib>
+  <lib id="shared-ldif">
+    <kw>org.apache.directory.shared.ldap.ldif.</kw>
+  </lib>
+  <lib id="db4o">
+    <kw>com.db4o.</kw>
+  </lib>
+  <lib id="JUnitParams">
+    <kw>junitparams.</kw>
+  </lib>
+  <lib id="concurrent">
+    <kw>EDU.oswego.cs.dl.util.concurrent.</kw>
+  </lib>
+  <lib id="aduna-commons-net">
+    <kw>info.aduna.net.</kw>
+  </lib>
+  <lib id="solder">
+    <kw>org.jboss.solder.</kw>
+  </lib>
+  <lib id="appzone-client">
+    <kw>lk.appzone.client.</kw>
+  </lib>
+  <lib id="snaptree">
+    <kw>edu.stanford.ppl.concurrent.</kw>
+  </lib>
+  <lib id="hibernate">
+    <kw>org.hibernate.</kw>
+  </lib>
+  <lib id="masabi-frontlinesms-plugin-formscodec">
+    <kw>com.masabi.</kw>
+  </lib>
+  <lib id="gpars">
+    <kw>groovyx.gpars.</kw>
+  </lib>
+  <lib id="log">
+    <kw>com.proofpoint.log.</kw>
+  </lib>
+  <lib id="chart2d">
+    <kw>net.sourceforge.chart2d.</kw>
+  </lib>
+  <lib id="ibatis">
+    <kw>com.ibatis.</kw>
+  </lib>
+  <lib id="jterminal">
+    <kw>com.grahamedgecombe.jterminal.</kw>
+  </lib>
+  <lib id="facebook-java-api">
+    <kw>com.google.code.facebookapi.</kw>
+  </lib>
+  <lib id="packer">
+    <kw>com.monits.packer.</kw>
+  </lib>
+  <lib id="trace-token">
+    <kw>com.proofpoint.tracetoken.</kw>
+  </lib>
+  <lib id="icefaces">
+    <kw>org.icefaces.</kw>
+  </lib>
+  <lib id="markdownpapers-core">
+    <kw>org.tautua.markdownpapers.</kw>
+  </lib>
+  <lib id="uuid">
+    <kw>com.eaio.u</kw>
+  </lib>
+  <lib id="soa-client">
+    <kw>org.ebayopensource.</kw>
+  </lib>
+  <lib id="uncommons-maths">
+    <kw>org.uncommons.maths.</kw>
+  </lib>
+  <lib id="jasypt">
+    <kw>org.jasypt.</kw>
+  </lib>
+  <lib id="biojava3">
+    <kw>org.biojava</kw>
+  </lib>
+  <lib id="ivy">
+    <kw>org.apache.ivy.</kw>
+  </lib>
+  <lib id="gcf-standard">
+    <kw>com.github.gcf.io.</kw>
+  </lib>
+  <lib id="jericho-html">
+    <kw>net.htmlparser.jericho.</kw>
+    <kw>au.id.jericho.lib.html.</kw>
+  </lib>
+  <lib id="dbunit-embeddedderby-parenttest">
+    <kw>net.jakubholy.testing.dbunit.embeddeddb.</kw>
+  </lib>
+  <lib id="substance">
+    <kw>org.jvnet.substance.</kw>
+  </lib>
+  <lib id="cucumber">
+    <kw>cucumber.</kw>
+  </lib>
+  <lib id="jiic">
+    <kw>de.tu_darmstadt.informatik.rbg.hatlak.</kw>
+  </lib>
+  <lib id="proguard-base">
+    <kw>proguard.</kw>
+  </lib>
+  <lib id="gremlin">
+    <kw>com.tinkerpop.gremlin.</kw>
+  </lib>
+  <lib id="pircbot">
+    <kw>org.jibble.pircbot.</kw>
+  </lib>
+  <lib id="xmlgraphics-commons">
+    <kw>org.apache.xmlgraphics.</kw>
+  </lib>
+  <lib id="asadmin-java">
+    <kw>org.n0pe.asadmin.</kw>
+  </lib>
+  <lib id="commons-net">
+    <kw>org.apache.commons.net.</kw>
+  </lib>
+  <lib id="onebusaway-csv-entities">
+    <kw>org.onebusaway.csv_entities.</kw>
+  </lib>
+  <lib id="ome-java">
+    <kw>org.openmicroscopy.</kw>
+  </lib>
+  <lib id="commons-persistence">
+    <kw>cz.jirutka.commons.persistence.</kw>
+  </lib>
+  <lib id="htmlunit-core-js">
+    <kw>net.sourceforge.htmlunit.corejs.</kw>
+  </lib>
+  <lib id="typica">
+    <kw>com.xerox.amazonws.</kw>
+  </lib>
+  <lib id="apache-myfaces">
+    <kw>org.apache.myfaces</kw>
+  </lib>
+  <lib id="androidannotations">
+    <kw>com.googlecode.androidannotations.</kw>
+  </lib>
+  <lib id="http-self-wrap-proxy-common">
+    <kw>com.xmxsuperstar.app.hswp.common.model.</kw>
+  </lib>
+  <lib id="snakeyaml">
+    <kw>org.yaml.snakeyaml</kw>
+  </lib>
+  <lib id="gwt-google">
+    <kw>com.google.gwt</kw>
+  </lib>
+  <lib id="watchmaker">
+    <kw>org.uncommons.</kw>
+  </lib>
+  <lib id="aduna-commons-xml">
+    <kw>info.aduna.xml.</kw>
+  </lib>
+  <lib id="MockFtpServer">
+    <kw>org.mockftpserver.</kw>
+  </lib>
+  <lib id="AMDJ">
+    <kw>edu.ufl.cise.amd.tdouble.</kw>
+  </lib>
+  <lib id="aduna-commons-iteration">
+    <kw>info.aduna.iteration.</kw>
+  </lib>
+  <lib id="wsrf-rp-datatypes-jaxbimpl">
+    <kw>com.ebmwebsourcing.wsstar</kw>
+  </lib>
+  <lib id="sjson_2.9.1">
+    <kw>sjson.json.</kw>
+  </lib>
+  <lib id="wsrf-bf-services">
+    <kw>com.ebmwebsourcing.wsstar.wsrfbf.services.faults.</kw>
+  </lib>
+  <lib id="auto-depends">
+    <kw>org.jvnet.hk2.</kw>
+  </lib>
+  <lib id="nanoxml">
+    <kw>net.n3.nanoxml.</kw>
+  </lib>
+  <lib id="relaxngDatatype">
+    <kw>org.relaxng.datatype.</kw>
+  </lib>
+  <lib id="laf-widget">
+    <kw>org.pushingpixels.lafwidget.</kw>
+  </lib>
+  <lib id="jarjar">
+    <kw>com.tonicsystems.jarjar.</kw>
+  </lib>
+  <lib id="displaytag">
+    <kw>org.displaytag.</kw>
+  </lib>
+  <lib id="lucene-stempel">
+    <kw>org.egothor.stemmer.</kw>
+  </lib>
+  <lib id="xmemcached">
+    <kw>net.rubyeye.xmemcached.</kw>
+  </lib>
+  <lib id="xSocket">
+    <kw>org.xsocket.</kw>
+  </lib>
+  <lib id="betamax">
+    <kw>betamax.</kw>
+  </lib>
+  <lib id="postgresql">
+    <kw>org.postgresql.</kw>
+  </lib>
+  <lib id="swizzle-confluence">
+    <kw>org.codehaus.swizzle.</kw>
+  </lib>
+  <lib id="jbosscc-needle">
+    <kw>de.akquinet.jbosscc.needle.</kw>
+  </lib>
+  <lib id="rife-continuations">
+    <kw>com.uwyn.rife.continuations.</kw>
+  </lib>
+  <lib id="jetty-client">
+    <kw>org.eclipse.jetty.client.</kw>
+    <kw>org.mortbay.jetty.client.</kw>
+  </lib>
+  <lib id="classworlds">
+    <kw>org.codehaus.classworlds.</kw>
+  </lib>
+  <lib id="itunes-com-podcast">
+    <kw>com.totsp.xml.syndication.itunes.</kw>
+  </lib>
+  <lib id="picketbox">
+    <kw>org.picketbox.</kw>
+  </lib>
+  <lib id="javacpp">
+    <kw>com.googlecode.javacpp.</kw>
+  </lib>
+  <lib id="maven-webdav">
+    <kw>org.apache.maven.wagon.</kw>
+  </lib>
+  <lib id="xmlbeans">
+    <kw>org.apache.xmlbeans.</kw>
+  </lib>
+  <lib id="paranamer">
+    <kw>com.thoughtworks.paranamer.</kw>
+  </lib>
+  <lib id="owlapi">
+    <kw>org.semanticweb.owlapi.</kw>
+  </lib>
+  <lib id="mime-util">
+    <kw>eu.medsea.</kw>
+  </lib>
+  <lib id="spark">
+    <kw>spark.</kw>
+  </lib>
+  <lib id="jai_imageio">
+    <kw>jj2000.j2k.</kw>
+  </lib>
+  <lib id="httpchannel">
+    <kw>com.rogiel.httpchannel.</kw>
+  </lib>
+  <lib id="scribe">
+    <kw>org.scribe.</kw>
+  </lib>
+  <lib id="bcel">
+    <kw>org.apache.bcel.</kw>
+  </lib>
+  <lib id="hickory">
+    <kw>net.java.dev.hickory.</kw>
+  </lib>
+  <lib id="commons-jexl">
+    <kw>org.apache.commons.jexl</kw>
+  </lib>
+  <lib id="heritrix-commons">
+    <kw>org.archive.</kw>
+  </lib>
+  <lib id="discovery-experimental">
+    <kw>com.proofpoint.discovery.client.</kw>
+  </lib>
+  <lib id="javarebel-sdk">
+    <kw>org.zeroturnaround.javarebel.</kw>
+  </lib>
+  <lib id="primefaces">
+    <kw>org.primefaces.</kw>
+  </lib>
+  <lib id="gluegen">
+    <kw>com.jogamp.gluegen.</kw>
+  </lib>
+  <lib id="openrdf">
+    <kw>org.openrdf.</kw>
+  </lib>
+  <lib id="freemarker">
+    <kw>freemarker.</kw>
+  </lib>
+  <lib id="abdera">
+    <kw>org.apache.abdera.</kw>
+  </lib>
+  <lib id="jfreechart">
+    <kw>org.jfree.</kw>
+  </lib>
+  <lib id="stax-appserver">
+    <kw>com.staxnet.</kw>
+  </lib>
+  <lib id="jeeunit">
+    <kw>com.googlecode.jeeunit.</kw>
+  </lib>
+  <lib id="tapestry">
+    <kw>org.apache.tapestry5.</kw>
+  </lib>
+  <lib id="saxon">
+    <kw>net.sf.saxon.</kw>
+  </lib>
+  <lib id="wsrf-r-datatypes-jaxbimpl">
+    <kw>com.ebmwebsourcing.wsstar.</kw>
+  </lib>
+  <lib id="jaffl">
+    <kw>com.kenai.jaffl.</kw>
+  </lib>
+  <lib id="kxml2">
+    <kw>org.kxml2.</kw>
+  </lib>
+  <lib id="oscore">
+    <kw>com.opensymphony.</kw>
+  </lib>
+  <lib id="moteurcsv">
+    <kw>fr.ybo.moteurcsv.</kw>
+  </lib>
+  <lib id="gwt-html5-storage">
+    <kw>com.google.code.gwt.storage.client.</kw>
+  </lib>
+  <lib id="vilya">
+    <kw>com.threerings.</kw>
+  </lib>
+  <lib id="aether-connector">
+    <kw>org.sonatype.aether.connector.</kw>
+  </lib>
+  <lib id="json">
+    <kw>com.proofpoint.json.</kw>
+  </lib>
+  <lib id="httpmime">
+    <kw>org.apache.http.entity.mime.</kw>
+  </lib>
+  <lib id="mksapi-jar">
+    <kw>com.mks.</kw>
+  </lib>
+  <lib id="jaxb2-basics-runtime">
+    <kw>org.jvnet.jaxb2_commons.</kw>
+  </lib>
+  <lib id="apache-tiles">
+    <kw>org.apache.tiles.</kw>
+  </lib>
+  <lib id="tinybundles">
+    <kw>org.ops4j.pax.tinybundles.core.</kw>
+  </lib>
+  <lib id="javacc">
+    <kw>org.javacc.</kw>
+  </lib>
+  <lib id="derby">
+    <kw>org.apache.derby.</kw>
+  </lib>
+  <lib id="jcgrid">
+    <kw>org.homedns.dade.jcgrid.</kw>
+  </lib>
+  <lib id="jaxws-rt">
+    <kw>org.jvnet.ws.</kw>
+  </lib>
+  <lib id="geotools">
+    <kw>org.geotools.</kw>
+  </lib>
+  <lib id="mockobjects">
+    <kw>com.mockobjects.</kw>
+  </lib>
+  <lib id="sibboleth">
+    <kw>grith.sibboleth.</kw>
+  </lib>
+  <lib id="junit">
+    <kw>junit.framework.</kw>
+    <kw>org.junit.</kw>
+  </lib>
+  <lib id="resolver-api">
+    <kw>org.rioproject.resolver.</kw>
+  </lib>
+  <lib id="seaglasslookandfeel">
+    <kw>com.seaglasslookandfeel.</kw>
+  </lib>
+  <lib id="shared-ldap">
+    <kw>org.apache.directory.shared.ldap.</kw>
+  </lib>
+  <lib id="hornetq">
+    <kw>org.hornetq.</kw>
+  </lib>
+  <lib id="asynchbase">
+    <kw>org.hbase.async.</kw>
+  </lib>
+  <lib id="jorphan">
+    <kw>org.apache.jorphan.</kw>
+  </lib>
+  <lib id="hadoop-hive">
+    <kw>org.apache.hadoop.hive.</kw>
+  </lib>
+  <lib id="de.huxhorn.lilith.slf4j">
+    <kw>de.huxhorn.lilith.slf4j.</kw>
+  </lib>
+  <lib id="shared-cursor">
+    <kw>org.apache.directory.shared.ldap.cursor.</kw>
+  </lib>
+  <lib id="msgpack">
+    <kw>org.msgpack.</kw>
+  </lib>
+  <lib id="htmlcleaner">
+    <kw>org.htmlcleaner.</kw>
+  </lib>
+  <lib id="mockachino">
+    <kw>se.mockachino.</kw>
+  </lib>
+  <lib id="de.flapdoodle.embedmongo">
+    <kw>de.flapdoodle.embedmongo.</kw>
+  </lib>
+  <lib id="openregex">
+    <kw>edu.washington.cs.knowitall.</kw>
+  </lib>
+  <lib id="jacorb">
+    <kw>org.jacorb.</kw>
+    <kw>org.omg.CosCollection.</kw>
+  </lib>
+  <lib id="jsoup">
+    <kw>org.jsoup.</kw>
+  </lib>
+  <lib id="retrotranslator-runtime">
+    <kw>net.sf.retrotranslator.runtime.</kw>
+  </lib>
+  <lib id="scubywars.library">
+    <kw>de.tdng2011.game.library.</kw>
+  </lib>
+  <lib id="saxstack">
+    <kw>org.saxstack.</kw>
+  </lib>
+  <lib id="jotm">
+    <kw>org.objectweb.jotm.</kw>
+  </lib>
+  <lib id="confluence">
+    <kw>org.eclipse.mylyn.wikitext.confluence.core.</kw>
+    <kw>org.eclipse.mylyn.internal.wikitext.confluence.</kw>
+  </lib>
+  <lib id="extensions">
+    <kw>com.intellij.openapi.extensions.</kw>
+  </lib>
+  <lib id="isorelax">
+    <kw>org.iso_relax.</kw>
+  </lib>
+  <lib id="jcodings">
+    <kw>org.jcodings.</kw>
+  </lib>
+  <lib id="jline">
+    <kw>jline.</kw>
+  </lib>
+  <lib id="jsecurity">
+    <kw>org.jsecurity.</kw>
+  </lib>
+  <lib id="imageio">
+    <kw>it.geosolutions.imageio</kw>
+  </lib>
+  <lib id="avalon">
+    <kw>org.apache.avalon.framework.</kw>
+  </lib>
+  <lib id="java-sql-generator-api">
+    <kw>org.sql.generation.api.</kw>
+  </lib>
+  <lib id="common-api">
+    <kw>org.ocpsoft.common.</kw>
+  </lib>
+  <lib id="owl-common">
+    <kw>com.owlplatform.common.</kw>
+  </lib>
+  <lib id="common-type-library">
+    <kw>org.ebayopensource.turmeric.common.v1.types.</kw>
+  </lib>
+  <lib id="groovy">
+    <kw>groovy.</kw>
+  </lib>
+  <lib id="jorbis">
+    <kw>com.jcraft.jo</kw>
+  </lib>
+  <lib id="ajaxtags">
+    <kw>org.ajaxtags.</kw>
+  </lib>
+  <lib id="netcdf">
+    <kw>ucar.nc2.</kw>
+    <kw>thredds.</kw>
+  </lib>
+  <lib id="wss4j">
+    <kw>org.apache.ws.</kw>
+  </lib>
+  <lib id="jnpserver">
+    <kw>org.jnp.</kw>
+  </lib>
+  <lib id="solr">
+    <kw>org.apache.solr.</kw>
+  </lib>
+  <lib id="lesscss-servlet">
+    <kw>com.asual.lesscss.</kw>
+  </lib>
+  <lib id="staxmapper">
+    <kw>org.jboss.staxmapper.</kw>
+  </lib>
+  <lib id="spock">
+    <kw>org.spockframework.</kw>
+  </lib>
+  <lib id="bson">
+    <kw>org.bson.</kw>
+  </lib>
+  <lib id="commons-cli">
+    <kw>org.apache.commons.cli</kw>
+  </lib>
+  <lib id="flickrapi">
+    <kw>com.aetrion.flickr.</kw>
+  </lib>
+  <lib id="peaberry.eclipse">
+    <kw>org.ops4j.peaberry.eclipse.</kw>
+  </lib>
+  <lib id="javase">
+    <kw>com.google.zxing.</kw>
+  </lib>
+  <lib id="aspectwerkz-core">
+    <kw>org.codehaus.aspectwerkz.hook.</kw>
+  </lib>
+  <lib id="COLAMDJ">
+    <kw>edu.ufl.cise.colamd.tdouble.</kw>
+  </lib>
+  <lib id="pojo-mbean">
+    <kw>org.softee.</kw>
+  </lib>
+  <lib id="jmockit">
+    <kw>mockit.</kw>
+  </lib>
+  <lib id="bsf">
+    <kw>org.apache.bsf.</kw>
+  </lib>
+  <lib id="objectify">
+    <kw>com.googlecode.objectify.</kw>
+  </lib>
+  <lib id="bsh">
+    <kw>bsh.</kw>
+  </lib>
+  <lib id="jlayer">
+    <kw>javazoom.jl.</kw>
+  </lib>
+  <lib id="elasticsearch">
+    <kw>org.elasticsearch.</kw>
+  </lib>
+  <lib id="serializer">
+    <kw>org.apache.xml.serializer.</kw>
+  </lib>
+  <lib id="svenson">
+    <kw>org.svenson.</kw>
+  </lib>
+  <lib id="mirror">
+    <kw>net.vidageek.mirror.</kw>
+  </lib>
+  <lib id="amqp-client">
+    <kw>com.rabbitmq.</kw>
+  </lib>
+  <lib id="apache-cocoon">
+    <kw>org.apache.cocoon.</kw>
+  </lib>
+  <lib id="ttff">
+    <kw>com.github.cwilper.ttff.</kw>
+  </lib>
+  <lib id="JavaAPIforKml">
+    <kw>de.micromata.opengis.kml.v_2_2_0.</kw>
+  </lib>
+  <lib id="juniversalchardet">
+    <kw>org.mozilla.universalchardet.</kw>
+  </lib>
+  <lib id="hatbox">
+    <kw>net.sourceforge.hatbox.</kw>
+  </lib>
+  <lib id="xmlworker">
+    <kw>com.itextpdf.tool.xml.</kw>
+  </lib>
+  <lib id="wsn-b-services-impl">
+    <kw>com.ebmwebsourcing.wsstar.wsnb.services.impl.</kw>
+  </lib>
+  <lib id="jemmy">
+    <kw>org.netbeans.jemmy.</kw>
+  </lib>
+  <lib id="twitter4j">
+    <kw>twitter4j.</kw>
+  </lib>
+  <lib id="hawtjni-runtime">
+    <kw>org.fusesource.hawtjni.runtime.</kw>
+  </lib>
+  <lib id="prom">
+    <kw>org.syphr.prom.</kw>
+  </lib>
+  <lib id="nsp-util">
+    <kw>dk.sdsd.nsp.</kw>
+  </lib>
+  <lib id="caelum-stella-core">
+    <kw>br.com.caelum.stella.</kw>
+  </lib>
+  <lib id="antlr3-maven-plugin">
+    <kw>org.antlr.mojo.antlr3.</kw>
+  </lib>
+  <lib id="xerial">
+    <kw>org.xerial.</kw>
+  </lib>
+  <lib id="commons-pool">
+    <kw>org.apache.commons.pool.</kw>
+  </lib>
+  <lib id="batik">
+    <kw>org.apache.batik.</kw>
+  </lib>
+  <lib id="mahout">
+    <kw>org.apache.mahout.</kw>
+  </lib>
+  <lib id="jsonic">
+    <kw>net.arnx.jsonic.</kw>
+  </lib>
+  <lib id="cglib">
+    <kw>net.sf.cglib.</kw>
+  </lib>
+  <lib id="smartgwt">
+    <kw>com.smartgwt.</kw>
+  </lib>
+  <lib id="easyschema10">
+    <kw>com.ebmwebsourcing.easyschema10.</kw>
+  </lib>
+  <lib id="properties-maven-plugin">
+    <kw>org.codehaus.mojo.properties.</kw>
+  </lib>
+  <lib id="grizzly">
+    <kw>org.glassfish.grizzly.</kw>
+  </lib>
+  <lib id="gxt">
+    <kw>com.extjs.gxt.</kw>
+  </lib>
+  <lib id="great-expectations">
+    <kw>com.pivotallabs.greatexpectations.</kw>
+  </lib>
+  <lib id="colt">
+    <kw>cern.colt.</kw>
+  </lib>
+  <lib id="mcann-core">
+    <kw>org.jboss.mcann.</kw>
+  </lib>
+  <lib id="jbullet">
+    <kw>com.bulletphysics.</kw>
+  </lib>
+  <lib id="aws-java-sdk">
+    <kw>com.amazonaws.</kw>
+  </lib>
+  <lib id="commons-digester">
+    <kw>org.apache.commons.digester.</kw>
+  </lib>
+  <lib id="juli">
+    <kw>org.apache.juli.</kw>
+  </lib>
+  <lib id="commons-fileupload">
+    <kw>org.apache.commons.fileupload.</kw>
+  </lib>
+  <lib id="jeeunit-glassfish">
+    <kw>com.googlecode.jeeunit.glassfish.</kw>
+  </lib>
+  <lib id="androlog">
+    <kw>de.akquinet.android.androlog.</kw>
+  </lib>
+  <lib id="joda-money">
+    <kw>org.joda.money.</kw>
+  </lib>
+  <lib id="msnmlib">
+    <kw>rath.msnm.</kw>
+  </lib>
+  <lib id="jcabi-log">
+    <kw>com.jcabi.log.</kw>
+  </lib>
+  <lib id="lwjgl">
+    <kw>org.lwjgl.</kw>
+  </lib>
+  <lib id="jsfunit-arquillian">
+    <kw>org.jboss.jsfunit.a</kw>
+  </lib>
+  <lib id="easyplnk20-api">
+    <kw>com.ebmwebsourcing.easyplnk20.api.</kw>
+  </lib>
+  <lib id="commons-jci">
+    <kw>org.apache.commons.jci.</kw>
+  </lib>
+  <lib id="bring-api">
+    <kw>com.bring.api.</kw>
+  </lib>
+  <lib id="antlr">
+    <kw>org.antlr.</kw>
+  </lib>
+  <lib id="jain-sip-ri">
+    <kw>gov.nist.</kw>
+  </lib>
+  <lib id="phys2d">
+    <kw>net.phys2d.</kw>
+  </lib>
+  <lib id="howl">
+    <kw>org.objectweb.howl.log.</kw>
+  </lib>
+  <lib id="Permissions">
+    <kw>com.nijiko</kw>
+  </lib>
+  <lib id="kotlin-stdlib">
+    <kw>kotlin.io.</kw>
+  </lib>
+  <lib id="svg-salamander">
+    <kw>com.kitfox.svg.</kw>
+  </lib>
+  <lib id="apache-karaf">
+    <kw>org.apache.karaf.</kw>
+  </lib>
+  <lib id="smack">
+    <kw>org.jivesoftware.smack.</kw>
+  </lib>
+  <lib id="fontbox">
+    <kw>org.fontbox.</kw>
+    <kw>org.apache.fontbox.</kw>
+  </lib>
+  <lib id="rundeck-api-java-client">
+    <kw>org.rundeck.api.</kw>
+  </lib>
+  <lib id="json-lib">
+    <kw>net.sf.json.</kw>
+  </lib>
+  <lib id="apache-aries">
+    <kw>org.apache.aries.</kw>
+  </lib>
+  <lib id="dom4j">
+    <kw>org.dom4j.</kw>
+  </lib>
+  <lib id="nailgun">
+    <kw>com.martiansoftware.nailgun.</kw>
+  </lib>
+  <lib id="jung">
+    <kw>edu.uci.ics.jung.</kw>
+  </lib>
+  <lib id="orika">
+    <kw>ma.glasnost.orika.</kw>
+  </lib>
+  <lib id="stats">
+    <kw>com.proofpoint.stats.</kw>
+  </lib>
+  <lib id="turismo">
+    <kw>com.ghosthack.turismo.</kw>
+  </lib>
+  <lib id="commons-dbcp">
+    <kw>org.apache.commons.dbcp.</kw>
+  </lib>
+  <lib id="force-wsc">
+    <kw>com.sforce.</kw>
+  </lib>
+  <lib id="sqlite">
+    <kw>org.sqlite.</kw>
+    <kw>org.xerial.db.sql.sqlite.</kw>
+  </lib>
+  <lib id="javaruntype">
+    <kw>org.javaruntype.</kw>
+  </lib>
+  <lib id="wsn-device-drivers-common">
+    <kw>de.uniluebeck.itm.wsn.drivers.isense.</kw>
+  </lib>
+  <lib id="prettyfaces-jsf2">
+    <kw>com.ocpsoft.</kw>
+  </lib>
+  <lib id="metawidget">
+    <kw>org.metawidget.</kw>
+  </lib>
+  <lib id="mongo-java-driver">
+    <kw>com.mongodb.</kw>
+  </lib>
+  <lib id="cassandra">
+    <kw>org.apache.cassandra.</kw>
+  </lib>
+  <lib id="PermissionsEx">
+    <kw>ru.tehkode.</kw>
+  </lib>
+  <lib id="ezmorph">
+    <kw>net.sf.ezmorph.</kw>
+  </lib>
+  <lib id="jstryker">
+    <kw>org.jstryker.</kw>
+  </lib>
+  <lib id="foxtrot">
+    <kw>foxtrot.</kw>
+  </lib>
+  <lib id="uKernel">
+    <kw>com.ebay.</kw>
+  </lib>
+  <lib id="menta-container">
+    <kw>org.mentacontainer.</kw>
+  </lib>
+  <lib id="rhq-pluginAnnotations">
+    <kw>org.rhq.helpers.pluginAnnotations.agent.</kw>
+  </lib>
+  <lib id="google-api-client">
+    <kw>com.google.api.client.</kw>
+  </lib>
+  <lib id="xmlParserAPIs">
+    <kw>org.apache.xmlcommons.</kw>
+    <kw>org.w3c.</kw>
+    <kw>javax.xml.</kw>
+    <kw>org.xml.</kw>
+  </lib>
+  <lib id="pipes">
+    <kw>com.tinkerpop.pipes.</kw>
+  </lib>
+  <lib id="util-logging">
+    <kw>com.twitter.logging.</kw>
+  </lib>
+  <lib id="plugin-r">
+    <kw>org.springframework.data.hadoop.impala.r.</kw>
+  </lib>
+  <lib id="bonecp">
+    <kw>com.jolbox.bonecp.</kw>
+  </lib>
+  <lib id="appengine">
+    <kw>com.google.appengine.</kw>
+  </lib>
+  <lib id="apacheds">
+    <kw>org.apache.directory.server.</kw>
+  </lib>
+  <lib id="heroku-api">
+    <kw>com.heroku.api.</kw>
+  </lib>
+  <lib id="utils">
+    <kw>net.pterodactylus.util.</kw>
+  </lib>
+  <lib id="jnr-netdb">
+    <kw>jnr.netdb.</kw>
+  </lib>
+  <lib id="teleal-common">
+    <kw>org.teleal.common.</kw>
+  </lib>
+  <lib id="ochafik-util">
+    <kw>com.ochafik.</kw>
+  </lib>
+  <lib id="target">
+    <kw>org.jscsi.target.</kw>
+  </lib>
+  <lib id="jamm">
+    <kw>org.github.jamm.</kw>
+  </lib>
+  <lib id="mockito">
+    <kw>org.mockito.</kw>
+  </lib>
+  <lib id="sshj">
+    <kw>net.schmizz.</kw>
+  </lib>
+  <lib id="lesscss">
+    <kw>org.lesscss.</kw>
+  </lib>
+  <lib id="WinRegistry">
+    <kw>at.jta.</kw>
+  </lib>
+  <lib id="jcommander">
+    <kw>com.beust.jcommander.</kw>
+  </lib>
+  <lib id="javassist">
+    <kw>javassist.</kw>
+  </lib>
+  <lib id="sal-api">
+    <kw>com.atlassian.sal.api.</kw>
+  </lib>
+  <lib id="httpasyncclient">
+    <kw>org.apache.http.nio.</kw>
+  </lib>
+  <lib id="httpclienthelpers-springsupport">
+    <kw>com.sirika.httpclienthelpers.springframework.</kw>
+  </lib>
+  <lib id="jogl.all">
+    <kw>jogamp.</kw>
+  </lib>
+  <lib id="fest">
+    <kw>org.fest.</kw>
+  </lib>
+  <lib id="trilead-ssh2">
+    <kw>com.trilead.ssh2.</kw>
+  </lib>
+  <lib id="seamless">
+    <kw>org.seamless.</kw>
+  </lib>
+  <lib id="plugin-hive">
+    <kw>org.springframework.data.hadoop.impala.hive.</kw>
+  </lib>
+  <lib id="tomcat">
+    <kw>org.apache.tomcat.</kw>
+  </lib>
+  <lib id="dropwizard">
+    <kw>com.yammer.dropwizard.</kw>
+  </lib>
+  <lib id="search">
+    <kw>com.googlecode.genericdao.search.</kw>
+  </lib>
+  <lib id="stanford-corenlp">
+    <kw>edu.stanford.nlp.</kw>
+  </lib>
+  <lib id="aduna-commons-platform-info">
+    <kw>info.aduna.platform.</kw>
+  </lib>
+  <lib id="reflectasm">
+    <kw>com.esotericsoftware.reflectasm.</kw>
+  </lib>
+  <lib id="henplus">
+    <kw>henplus.</kw>
+  </lib>
+  <lib id="h2">
+    <kw>org.h2.</kw>
+  </lib>
+  <lib id="commons-jxpath">
+    <kw>org.apache.commons.jxpath.</kw>
+  </lib>
+  <lib id="hawtdispatch">
+    <kw>org.fusesource.hawtdispatch.</kw>
+  </lib>
+  <lib id="dynamicreports">
+    <kw>net.sf.dynamicreports.</kw>
+  </lib>
+  <lib id="fluent-hc">
+    <kw>org.apache.http.client.fluent.</kw>
+  </lib>
+  <lib id="objectdb">
+    <kw>com.objectdb.</kw>
+  </lib>
+  <lib id="force-partner-api">
+    <kw>com.sforce.soap.partner.</kw>
+  </lib>
+  <lib id="nekohtml">
+    <kw>org.cyberneko.html.</kw>
+  </lib>
+  <lib id="dependency-report-plugin">
+    <kw>org.codehaus.swizzle.depreport.</kw>
+  </lib>
+  <lib id="libidn">
+    <kw>gnu.inet.encoding.</kw>
+  </lib>
+  <lib id="csparsej">
+    <kw>edu.emory.mathcs.csparsej.t</kw>
+  </lib>
+  <lib id="exec-maven-plugin">
+    <kw>org.codehaus.mojo.exec.</kw>
+  </lib>
+  <lib id="jedi">
+    <kw>jedi.</kw>
+  </lib>
+  <lib id="gin">
+    <kw>com.google.gwt.inject.</kw>
+  </lib>
+  <lib id="promises">
+    <kw>com.surelogic.</kw>
+  </lib>
+  <lib id="quartz">
+    <kw>org.quartz.</kw>
+  </lib>
+  <lib id="mustache-mvc">
+    <kw>com.page5of4.mustache.</kw>
+  </lib>
+  <lib id="soap">
+    <kw>org.apache.soap.</kw>
+  </lib>
+  <lib id="javaparser">
+    <kw>japa.parser.</kw>
+  </lib>
+  <lib id="eventbus">
+    <kw>org.bushe.swing.e</kw>
+  </lib>
+  <lib id="apache-wink">
+    <kw>org.apache.wink.c</kw>
+  </lib>
+  <lib id="rest-assured">
+    <kw>com.jayway.restassured.</kw>
+  </lib>
+  <lib id="datanucleus">
+    <kw>org.datanucleus</kw>
+  </lib>
+  <lib id="wizard">
+    <kw>org.pietschy.wizard.</kw>
+  </lib>
+  <lib id="jmeter">
+    <kw>org.apache.jmeter.</kw>
+  </lib>
+  <lib id="skype-java-api">
+    <kw>com.skype.</kw>
+  </lib>
+  <lib id="file-management">
+    <kw>org.apache.maven.shared.model.fileset.</kw>
+  </lib>
+  <lib id="pivot">
+    <kw>org.apache.pivot.</kw>
+  </lib>
+  <lib id="OpenDS">
+    <kw>org.opends.</kw>
+  </lib>
+  <lib id="concurrentlinkedhashmap-lru">
+    <kw>com.googlecode.concurrentlinkedhashmap.</kw>
+  </lib>
+  <lib id="bukkit-permissions">
+    <kw>com.platymuus.bukkit.permissions.</kw>
+  </lib>
+  <lib id="enforcer-api">
+    <kw>org.apache.maven.enforcer.rule.api.</kw>
+  </lib>
+  <lib id="microsoft-windowsazure-api">
+    <kw>com.microsoft.</kw>
+  </lib>
+  <lib id="jdepend">
+    <kw>jdepend.</kw>
+  </lib>
+  <lib id="nifty">
+    <kw>de.lessvoid.</kw>
+  </lib>
+  <lib id="ahc">
+    <kw>org.apache.ahc.</kw>
+  </lib>
+  <lib id="high-scale-lib">
+    <kw>org.cliffc.high_scale_lib.</kw>
+  </lib>
+  <lib id="vraptor">
+    <kw>org.vraptor.</kw>
+  </lib>
+  <lib id="opencsv">
+    <kw>au.com.bytecode.opencsv.</kw>
+  </lib>
+  <lib id="args4j">
+    <kw>org.kohsuke.args4j.</kw>
+  </lib>
+  <lib id="org.restlet">
+    <kw>org.restlet.</kw>
+  </lib>
+  <lib id="ajax4jsf">
+    <kw>org.ajax4jsf.</kw>
+  </lib>
+  <lib id="xml-im-exporter">
+    <kw>de.zeigermann.xml.</kw>
+  </lib>
+  <lib id="jmock">
+    <kw>org.jmock.</kw>
+  </lib>
+  <lib id="hornet-connector-java">
+    <kw>com.nectify.hornet.</kw>
+  </lib>
+  <lib id="jaudiotagger">
+    <kw>org.jaudiotagger.</kw>
+  </lib>
+  <lib id="testing-tools">
+    <kw>com.jolira.testing.</kw>
+  </lib>
+  <lib id="configuration">
+    <kw>com.proofpoint.configuration.</kw>
+  </lib>
+  <lib id="ome-java-deprecated">
+    <kw>org.openmicroscopy.xml.</kw>
+  </lib>
+  <lib id="lightcouch">
+    <kw>org.lightcouch.</kw>
+  </lib>
+  <lib id="jgoodies">
+    <kw>com.jgoodies.</kw>
+  </lib>
+  <lib id="gwtx">
+    <kw>com.googlecode.gwtx.rebind.</kw>
+  </lib>
+  <lib id="perfidix">
+    <kw>org.perfidix.</kw>
+  </lib>
+  <lib id="argo">
+    <kw>argo.</kw>
+  </lib>
+  <lib id="shrinkwrap">
+    <kw>org.jboss.shrinkwrap.</kw>
+  </lib>
+  <lib id="TurmericUtils">
+    <kw>org.ebayopensource.turmeric.utils.</kw>
+  </lib>
+  <lib id="struts">
+    <kw>org.apache.struts.</kw>
+  </lib>
+  <lib id="commons-logging">
+    <kw>org.apache.commons.logging.</kw>
+  </lib>
+  <lib id="protobuf-rpc-pro-duplex">
+    <kw>com.googlecode.protobuf.pro.duplex.</kw>
+  </lib>
+  <lib id="stax-logagent">
+    <kw>net.stax.log.</kw>
+  </lib>
+  <lib id="jME3-jbullet">
+    <kw>com.jme3.bullet.</kw>
+  </lib>
+  <lib id="ant">
+    <kw>org.apache.tools.</kw>
+  </lib>
+  <lib id="sdm">
+    <kw>dk.nsi.sdm4.core.</kw>
+  </lib>
+  <lib id="oval">
+    <kw>net.sf.oval.</kw>
+  </lib>
+  <lib id="lambdaj">
+    <kw>ch.lambdaj.</kw>
+  </lib>
+  <lib id="json-path">
+    <kw>com.jayway.jsonpath.</kw>
+  </lib>
+  <lib id="svg2emf">
+    <kw>org.freehep.</kw>
+  </lib>
+  <lib id="rsyntaxtextarea">
+    <kw>org.fife.</kw>
+  </lib>
+  <lib id="wsrf-bf-datatypes-api">
+    <kw>com.ebmwebsourcing.wsstar.basefaults.datatypes.api.</kw>
+  </lib>
+  <lib id="dnsjava">
+    <kw>org.xbill.DNS.</kw>
+  </lib>
+  <lib id="jwnl">
+    <kw>net.didion.jwnl.</kw>
+  </lib>
+  <lib id="gmaven">
+    <kw>org.codehaus.gmaven.</kw>
+  </lib>
+  <lib id="codjo-util">
+    <kw>net.codjo.util.</kw>
+  </lib>
+  <lib id="http-builder">
+    <kw>groovyx.net.http.</kw>
+  </lib>
+  <lib id="atp-api">
+    <kw>org.atp.api.</kw>
+  </lib>
+  <lib id="milyn-smooks">
+    <kw>org.milyn.</kw>
+  </lib>
+  <lib id="hamcrest">
+    <kw>org.hamcrest.</kw>
+  </lib>
+  <lib id="aduna-commons-lang">
+    <kw>info.aduna.lang.</kw>
+  </lib>
+  <lib id="lzma-java">
+    <kw>lzma.</kw>
+  </lib>
+  <lib id="bouncycastle">
+    <kw>org.bouncycastle.</kw>
+  </lib>
+  <lib id="kfs">
+    <kw>org.kosmix.kosmosfs.access.</kw>
+  </lib>
+  <lib id="wsaddressing10">
+    <kw>com.ebmwebsourcing.wsaddressing10.</kw>
+  </lib>
+  <lib id="lablib-checkboxtree">
+    <kw>it.cnr.imaa.essi.lablib.gui.checkboxtree.</kw>
+  </lib>
+  <lib id="org.eclipse">
+    <kw>org.eclipse.</kw>
+  </lib>
+  <lib id="sli4j">
+    <kw>com.googlecode.sli4j.</kw>
+  </lib>
+  <lib id="dtdparser121">
+    <kw>com.wutka.dtd.</kw>
+  </lib>
+  <lib id="xml-writer">
+    <kw>com.megginson.sax.</kw>
+  </lib>
+  <lib id="jetty-repacked">
+    <kw>org.seleniumhq.jetty7.</kw>
+  </lib>
+  <lib id="retroweaver">
+    <kw>com.rc.retroweaver.</kw>
+  </lib>
+  <lib id="juel">
+    <kw>de.odysseus.el.</kw>
+  </lib>
+  <lib id="guiceyfruit">
+    <kw>org.guiceyfruit.</kw>
+  </lib>
+  <lib id="emma">
+    <kw>com.vladium.</kw>
+  </lib>
+  <lib id="xmlsec">
+    <kw>org.apache.xml.security.</kw>
+  </lib>
+  <lib id="rocoto">
+    <kw>org.nnsoft.guice.rocoto.</kw>
+  </lib>
+  <lib id="lucene-xercesImpl">
+    <kw>org.apache.xerces.dom3.as.</kw>
+  </lib>
+  <lib id="javatuples">
+    <kw>org.javatuples.</kw>
+  </lib>
+  <lib id="abcl">
+    <kw>org.armedbear.lisp.</kw>
+  </lib>
+  <lib id="dbpool">
+    <kw>com.proofpoint.dbpool.</kw>
+  </lib>
+  <lib id="jena-core">
+    <kw>com.hp.hpl.jena.</kw>
+  </lib>
+  <lib id="findbugs-maven-plugin">
+    <kw>org.codehaus.mojo.findbugs.</kw>
+  </lib>
+  <lib id="jdesktop">
+    <kw>org.jdesktop.</kw>
+  </lib>
+  <lib id="xdoclet">
+    <kw>xdoclet.</kw>
+  </lib>
+  <lib id="imgscalr-lib">
+    <kw>com.thebuzzmedia.imgscalr.</kw>
+  </lib>
+  <lib id="joda-time-jsptags">
+    <kw>org.joda.time.contrib.jsptag.</kw>
+  </lib>
+  <lib id="vt-ldap">
+    <kw>edu.vt.middleware.ldap.</kw>
+  </lib>
+  <lib id="openjpa">
+    <kw>org.apache.openjpa.</kw>
+  </lib>
+  <lib id="geoapi">
+    <kw>org.opengis.</kw>
+  </lib>
+  <lib id="blueprints">
+    <kw>com.tinkerpop.blueprints.</kw>
+  </lib>
+  <lib id="jruby">
+    <kw>org.jruby.</kw>
+  </lib>
+  <lib id="testutils">
+    <kw>dk.nsi.sdm4.testutils.</kw>
+  </lib>
+  <lib id="flatpack">
+    <kw>net.sf.flatpack.</kw>
+  </lib>
+  <lib id="commons-io">
+    <kw>org.apache.commons.io.</kw>
+  </lib>
+  <lib id="json-simple">
+    <kw>org.json.simple.</kw>
+  </lib>
+  <lib id="idl">
+    <kw>org.jacorb.idl.</kw>
+  </lib>
+  <lib id="jgss">
+    <kw>org.ietf.jgss.</kw>
+  </lib>
+  <lib id="talis-jmx">
+    <kw>com.talis.jmx.</kw>
+  </lib>
+  <lib id="hadoop">
+    <kw>org.apache.hadoop.</kw>
+  </lib>
+  <lib id="base64">
+    <kw>net.iharder.</kw>
+  </lib>
+  <lib id="apibuilder">
+    <kw>com.jakewharton.apibuilder.</kw>
+  </lib>
+  <lib id="yeslib">
+    <kw>org.yestech.lib.</kw>
+  </lib>
+  <lib id="idb">
+    <kw>org.enhydra.instantdb.</kw>
+  </lib>
+  <lib id="httpcomponents">
+    <kw>org.apache.http</kw>
+  </lib>
+  <lib id="kryo">
+    <kw>com.esotericsoftware.kryo.</kw>
+  </lib>
+  <lib id="collections-generic">
+    <kw>org.apache.commons.collections15.</kw>
+  </lib>
+  <lib id="odfdom-java">
+    <kw>org.odftoolkit.odfdom.</kw>
+  </lib>
+  <lib id="moho">
+    <kw>com.voxeo.</kw>
+  </lib>
+  <lib id="jsp-impl">
+    <kw>org.glassfish.jsp.api.</kw>
+  </lib>
+  <lib id="mobicents-jain-sip-ha-core">
+    <kw>org.mobicents.ha.javax.sip.</kw>
+  </lib>
+  <lib id="picketlink-idm">
+    <kw>org.picketlink.idm.</kw>
+  </lib>
+  <lib id="vsplf-dynamic-i18n-api">
+    <kw>org.vsplf.i18n.</kw>
+  </lib>
+  <lib id="flyway">
+    <kw>com.googlecode.flyway.core.</kw>
+  </lib>
+  <lib id="sabre">
+    <kw>de.tu_darmstadt.informatik.rbg.</kw>
+  </lib>
+  <lib id="gettext-commons">
+    <kw>org.xnap.commons.i18n.</kw>
+  </lib>
+  <lib id="xsd2xml">
+    <kw>com.ebmwebsourcing.easyschema.xsd2xml.</kw>
+  </lib>
+  <lib id="ddlutils">
+    <kw>org.apache.ddlutils.</kw>
+  </lib>
+  <lib id="gson">
+    <kw>com.google.gson.</kw>
+  </lib>
+  <lib id="spi">
+    <kw>nl.thanod.annotations.spi.</kw>
+  </lib>
+  <lib id="jj-simplecaptcha">
+    <kw>jj.play.ns.nl.captcha.</kw>
+  </lib>
+  <lib id="ical4j">
+    <kw>net.fortuna.ical4j.</kw>
+  </lib>
+  <lib id="gentyref">
+    <kw>com.googlecode.gentyref.</kw>
+  </lib>
+  <lib id="commons-collections">
+    <kw>org.apache.commons.collections.</kw>
+  </lib>
+  <lib id="commons-javaflow">
+    <kw>org.apache.commons.javaflow.</kw>
+  </lib>
+  <lib id="util-xml-editor">
+    <kw>org.freecompany.util.xml.editor.</kw>
+  </lib>
+  <lib id="jsch">
+    <kw>com.jcraft.jsch.</kw>
+  </lib>
+  <lib id="soapbinding11">
+    <kw>com.ebmwebsourcing.soapbinding11.</kw>
+  </lib>
+  <lib id="BeanstalkClient">
+    <kw>com.surftools.BeanstalkClient</kw>
+  </lib>
+  <lib id="tempus-fugit">
+    <kw>com.google.code.tempusfugit.</kw>
+  </lib>
+  <lib id="jregex">
+    <kw>jregex.</kw>
+  </lib>
+  <lib id="mongo-jackson-mapper">
+    <kw>net.vz.mongodb.jackson.</kw>
+  </lib>
+  <lib id="shared-asn1">
+    <kw>org.apache.directory.shared.asn1.</kw>
+  </lib>
+  <lib id="org.eclipse.jgit">
+    <kw>org.eclipse.jgit.</kw>
+  </lib>
+  <lib id="shared-i18n">
+    <kw>org.apache.directory.shared.i18n.</kw>
+  </lib>
+  <lib id="cloudloadbalancers-uk">
+    <kw>org.jclouds.rackspace.cloudloadbalancers.</kw>
+  </lib>
+  <lib id="stripes">
+    <kw>net.sourceforge.stripes.</kw>
+  </lib>
+  <lib id="xmlenc">
+    <kw>org.znerd.xmlenc.</kw>
+  </lib>
+  <lib id="wsrf-r-services">
+    <kw>com.ebmwebsourcing.wsstar.wsrfr.services.faults.</kw>
+  </lib>
+  <lib id="gunit">
+    <kw>org.antlr.gunit.</kw>
+  </lib>
+  <lib id="easyj-spring">
+    <kw>org.easyj.spring.</kw>
+  </lib>
+  <lib id="httpcache4j">
+    <kw>org.codehaus.httpcache4j.</kw>
+  </lib>
+  <lib id="jasperreports">
+    <kw>net.sf.jasperreports.</kw>
+  </lib>
+  <lib id="pluto">
+    <kw>org.apache.pluto.</kw>
+  </lib>
+  <lib id="apache-felix">
+    <kw>org.apache.felix.</kw>
+  </lib>
+  <lib id="rrd4j">
+    <kw>org.rrd4j.</kw>
+  </lib>
+  <lib id="jwebunit">
+    <kw>net.sourceforge.jwebunit.</kw>
+  </lib>
+  <lib id="socket-interceptor">
+    <kw>com.ebay.jni.socketinterceptor.</kw>
+  </lib>
+  <lib id="plugin-mapreduce">
+    <kw>org.springframework.data.hadoop.impala.mapreduce.</kw>
+  </lib>
+  <lib id="dwr">
+    <kw>org.directwebremoting.</kw>
+  </lib>
+  <lib id="unix-common">
+    <kw>org.codehaus.mojo.unix.</kw>
+  </lib>
+  <lib id="ocpsoft-pretty-time">
+    <kw>com.ocpsoft.pretty.time.</kw>
+  </lib>
+  <lib id="wiseml">
+    <kw>eu.wisebed.wiseml.</kw>
+  </lib>
+  <lib id="jen-api">
+    <kw>com.echonest.api.v4.</kw>
+  </lib>
+  <lib id="libreadline-java">
+    <kw>org.gnu.readline.</kw>
+  </lib>
+  <lib id="ooxml-schemas">
+    <kw>schemasMicrosoftCom</kw>
+  </lib>
+  <lib id="mx4j">
+    <kw>mx4j.</kw>
+  </lib>
+  <lib id="liquibase">
+    <kw>liquibase.</kw>
+  </lib>
+  <lib id="jackson">
+    <kw>com.fasterxml.jackson.</kw>
+    <kw>org.codehaus.jackson.</kw>
+  </lib>
+  <lib id="tjws">
+    <kw>Acme.</kw>
+  </lib>
+  <lib id="httpclienthelpers-core">
+    <kw>com.sirika.httpclienthelpers.</kw>
+  </lib>
+  <lib id="apache-woden">
+    <kw>org.apache.woden.</kw>
+  </lib>
+  <lib id="jflex">
+    <kw>JFlex.</kw>
+  </lib>
+  <lib id="josql">
+    <kw>org.josql.</kw>
+  </lib>
+  <lib id="hector">
+    <kw>me.prettyprint.</kw>
+  </lib>
+  <lib id="markdownj">
+    <kw>com.petebevin.markdown.</kw>
+  </lib>
+  <lib id="imagecomparison">
+    <kw>net.avh4.util.imagecomparison.</kw>
+  </lib>
+  <lib id="opensaml">
+    <kw>org.opensaml.</kw>
+  </lib>
+  <lib id="powermock">
+    <kw>org.powermock.</kw>
+  </lib>
+  <lib id="jython">
+    <kw>org.python.</kw>
+  </lib>
+  <lib id="commons-el">
+    <kw>org.apache.commons.el.</kw>
+  </lib>
+  <lib id="urlrewrite">
+    <kw>org.tuckey.web.</kw>
+  </lib>
+  <lib id="sshd-core">
+    <kw>org.apache.sshd.</kw>
+  </lib>
+  <lib id="spymemcached">
+    <kw>net.spy.memcached.</kw>
+  </lib>
+  <lib id="perf4j">
+    <kw>org.perf4j.</kw>
+  </lib>
+  <lib id="sip-servlets">
+    <kw>org.mobicents.</kw>
+  </lib>
+  <lib id="randomizedtesting-runner">
+    <kw>com.carrotsearch.randomizedtesting.</kw>
+  </lib>
+  <lib id="jasper">
+    <kw>org.apache.jasper.</kw>
+  </lib>
+  <lib id="commons-configuration">
+    <kw>org.apache.commons.configuration.</kw>
+  </lib>
+  <lib id="unitils">
+    <kw>org.unitils.</kw>
+  </lib>
+  <lib id="org.ektorp">
+    <kw>org.ektorp.</kw>
+  </lib>
+  <lib id="js">
+    <kw>org.mozilla.</kw>
+  </lib>
+  <lib id="richfaces">
+    <kw>org.richfaces.</kw>
+  </lib>
+  <lib id="pymager-java-client">
+    <kw>com.sirika.pymager.</kw>
+  </lib>
+  <lib id="objenesis">
+    <kw>org.objenesis.</kw>
+  </lib>
+  <lib id="functionaljava">
+    <kw>fjs.</kw>
+  </lib>
+  <lib id="jSCSI-commons">
+    <kw>org.jscsi.</kw>
+  </lib>
+  <lib id="commons-chain">
+    <kw>org.apache.commons.chain.</kw>
+  </lib>
+  <lib id="resteasy">
+    <kw>org.jboss.resteasy.</kw>
+  </lib>
+  <lib id="jslint4java">
+    <kw>com.googlecode.jslint4java.</kw>
+  </lib>
+  <lib id="jsr166y">
+    <kw>jsr166y.</kw>
+  </lib>
+  <lib id="commons-compress">
+    <kw>org.apache.commons.compress.</kw>
+  </lib>
+  <lib id="metapossum-scanner">
+    <kw>com.metapossum.utils.scanner.</kw>
+  </lib>
+  <lib id="fusemq-leveldb">
+    <kw>org.fusesource.mq.leveldb.</kw>
+  </lib>
+  <lib id="jgap">
+    <kw>org.jgap.</kw>
+  </lib>
+  <lib id="inflector">
+    <kw>org.jvnet.inflector.</kw>
+  </lib>
+  <lib id="aterm-java">
+    <kw>jjtraveler.</kw>
+  </lib>
+  <lib id="jbossjts">
+    <kw>com.arjuna.</kw>
+  </lib>
+  <lib id="paxexam-karaf-options">
+    <kw>org.openengsb.labs.paxexam.karaf.options.</kw>
+  </lib>
+  <lib id="groovy-liquibase-dsl">
+    <kw>com.augusttechgroup.liquibase.</kw>
+  </lib>
+  <lib id="suco">
+    <kw>com.calclab.suco.</kw>
+  </lib>
+  <lib id="textile">
+    <kw>org.eclipse.mylyn.wikitext.textile.core.</kw>
+    <kw>org.eclipse.mylyn.internal.wikitext.textile.core.</kw>
+  </lib>
+  <lib id="PolicyService">
+    <kw>org.ebayopensource.turmeric.</kw>
+  </lib>
+  <lib id="jamon">
+    <kw>com.jamonapi.</kw>
+  </lib>
+  <lib id="checkstyle">
+    <kw>com.puppycrawl.tools.checkstyle.</kw>
+  </lib>
+  <lib id="leveldb">
+    <kw>org.iq80.leveldb.</kw>
+  </lib>
+  <lib id="zweb">
+    <kw>org.zkoss..</kw>
+  </lib>
+  <lib id="jamon-runtime">
+    <kw>org.jamon.</kw>
+  </lib>
+  <lib id="vanilla">
+    <kw>org.spout.vanilla.</kw>
+  </lib>
+  <lib id="hppc">
+    <kw>com.carrotsearch.hppc.</kw>
+  </lib>
+  <lib id="esapi">
+    <kw>org.owasp.esapi.</kw>
+  </lib>
+  <lib id="guice-struts2">
+    <kw>com.google.inject.struts2.</kw>
+  </lib>
+  <lib id="xdocreport">
+    <kw>fr.opensagres.xdocreport.</kw>
+  </lib>
+  <lib id="insight">
+    <kw>com.springsource.insight.</kw>
+  </lib>
+  <lib id="junitperf">
+    <kw>com.clarkware.junitperf.</kw>
+  </lib>
+  <lib id="FastInfoset">
+    <kw>org.jvnet.fastinfoset.</kw>
+  </lib>
+  <lib id="clojure">
+    <kw>clojure.</kw>
+  </lib>
+  <lib id="ftpapi">
+    <kw>com.myjavaworld.</kw>
+  </lib>
+  <lib id="memcached-session-manager">
+    <kw>de.javakaffee.web.msm.</kw>
+  </lib>
+  <lib id="vaadin">
+    <kw>com.vaadin.</kw>
+  </lib>
+  <lib id="jewelcli">
+    <kw>com.lexicalscope.</kw>
+  </lib>
+  <lib id="util-text">
+    <kw>org.freecompany.util.text.</kw>
+  </lib>
+  <lib id="scalamd">
+    <kw>org.fusesource.scalamd.</kw>
+  </lib>
+  <lib id="flamingo">
+    <kw>org.pushingpixels.flamingo.</kw>
+  </lib>
+  <lib id="lite">
+    <kw>nanoxml.</kw>
+  </lib>
+  <lib id="jets3t">
+    <kw>org.jets3t.</kw>
+  </lib>
+  <lib id="serp">
+    <kw>serp.</kw>
+  </lib>
+  <lib id="poem">
+    <kw>org.melati.poem.</kw>
+  </lib>
+  <lib id="dnssec4j">
+    <kw>org.littleshoot.dnssec4j.</kw>
+  </lib>
+  <lib id="aduna-commons-io">
+    <kw>info.aduna.io.</kw>
+  </lib>
+  <lib id="restfb">
+    <kw>com.restfb.</kw>
+  </lib>
+  <lib id="standard">
+    <kw>org.apache.taglibs.standard.</kw>
+  </lib>
+  <lib id="acegi-security">
+    <kw>org.acegisecurity.</kw>
+  </lib>
+  <lib id="jzlib">
+    <kw>com.jcraft.jzlib.</kw>
+  </lib>
+  <lib id="disruptor">
+    <kw>com.lmax.disruptor.</kw>
+  </lib>
+  <lib id="ij">
+    <kw>ij.</kw>
+  </lib>
+  <lib id="service-description-layer">
+    <kw>org.petalslink.abslayer.</kw>
+  </lib>
+  <lib id="wiquery">
+    <kw>org.odlabs.wiquery.</kw>
+  </lib>
+  <lib id="async">
+    <kw>com.stumbleupon.async.</kw>
+  </lib>
+  <lib id="java-diff">
+    <kw>org.incava.util.diff.</kw>
+  </lib>
+  <lib id="cloudtrace">
+    <kw>org.apache.accumulo.cloudtrace.</kw>
+  </lib>
+  <lib id="je">
+    <kw>com.sleepycat.</kw>
+  </lib>
+  <lib id="ch-sevenzip">
+    <kw>SevenZip.</kw>
+  </lib>
+  <lib id="initiator">
+    <kw>org.jscsi.initiator.</kw>
+  </lib>
+  <lib id="aduna-commons-text">
+    <kw>info.aduna.text.</kw>
+  </lib>
+  <lib id="jmxutils">
+    <kw>org.weakref.jmx.</kw>
+  </lib>
+  <lib id="freetools">
+    <kw>com.uprizer.sensearray.freetools.</kw>
+  </lib>
+  <lib id="commons-dbutils">
+    <kw>org.apache.commons.dbutils.</kw>
+  </lib>
+  <lib id="miglayout">
+    <kw>net.miginfocom.</kw>
+  </lib>
+  <lib id="signpost">
+    <kw>oauth.signpost.</kw>
+  </lib>
+  <lib id="bean-validator">
+    <kw>org.glassfish.enterprise.bean_validator.</kw>
+    <kw>com.googlecode.jtype.</kw>
+  </lib>
+  <lib id="htrace">
+    <kw>org.cloudera.htrace.</kw>
+  </lib>
+  <lib id="ehcache">
+    <kw>net.sf.ehcache.</kw>
+  </lib>
+  <lib id="jgroups">
+    <kw>org.jgroups.</kw>
+  </lib>
+  <lib id="hapi">
+    <kw>ca.uhn.</kw>
+  </lib>
+  <lib id="acegi-jsf">
+    <kw>net.sf.jsfcomp.acegijsf.</kw>
+  </lib>
+  <lib id="http-client-experimental">
+    <kw>com.proofpoint.http.client.</kw>
+  </lib>
+  <lib id="commons-email">
+    <kw>org.apache.commons.mail.</kw>
+  </lib>
+  <lib id="bridge-java-core">
+    <kw>com.flotype.bridge.</kw>
+  </lib>
+  <lib id="PolicyServiceConsumer">
+    <kw>org.ebayopensource.turmeric.services.policyservice.intf.gen.</kw>
+  </lib>
+  <lib id="spring-data-neo4j-rest">
+    <kw>org.springframework.data.neo4j.rest.</kw>
+  </lib>
+  <lib id="saxpath">
+    <kw>org.saxpath.</kw>
+  </lib>
+  <lib id="glassfish">
+    <kw>org.glassfish.</kw>
+  </lib>
+  <lib id="modeshape">
+    <kw>org.modeshape.</kw>
+  </lib>
+  <lib id="aduna-commons-concurrent">
+    <kw>info.aduna.concurrent.</kw>
+  </lib>
+  <lib id="j2h">
+    <kw>com.java2html.</kw>
+  </lib>
+  <lib id="avro">
+    <kw>org.apache.avro.</kw>
+  </lib>
+  <lib id="backport-util-concurrent">
+    <kw>edu.emory.mathcs.backport.java.util.</kw>
+  </lib>
+  <lib id="apache-tika">
+    <kw>org.apache.tika.</kw>
+  </lib>
+  <lib id="nestedvm">
+    <kw>org.ibex.nestedvm.</kw>
+  </lib>
+  <lib id="guice">
+    <kw>com.google.inject.</kw>
+  </lib>
+  <lib id="iglu">
+    <kw>org.ijsberg.iglu.</kw>
+  </lib>
+  <lib id="ha-api">
+    <kw>org.glassfish.ha.store.</kw>
+  </lib>
+  <lib id="xnio">
+    <kw>org.xnio.</kw>
+    <kw>org.jboss.xnio.</kw>
+  </lib>
+  <lib id="builder">
+    <kw>com.sampullara.mustache.</kw>
+  </lib>
+  <lib id="cling">
+    <kw>org.teleal.cling.</kw>
+  </lib>
+  <lib id="javolution">
+    <kw>javolution.</kw>
+  </lib>
+  <lib id="apache-camel">
+    <kw>org.apache.camel.</kw>
+  </lib>
+  <lib id="activemq-ra">
+    <kw>org.apache.activemq.</kw>
+  </lib>
+  <lib id="SecurityProviderInterface">
+    <kw>org.ebayopensource.turmeric.authentication.provider.</kw>
+  </lib>
+  <lib id="jxl">
+    <kw>jxl.</kw>
+  </lib>
+  <lib id="android-directionalviewpager">
+    <kw>android.support.v4.view.</kw>
+    <kw>com.jakewharton.android.view.</kw>
+  </lib>
+  <lib id="jsk-dl">
+    <kw>net.jini.</kw>
+  </lib>
+  <lib id="sip-balancer-jar">
+    <kw>org.mobicents.tools.</kw>
+  </lib>
+  <lib id="webster">
+    <kw>org.rioproject.tools.webster.</kw>
+  </lib>
+  <lib id="turmeric-junit">
+    <kw>org.ebayopensource.turmeric.junit.</kw>
+  </lib>
+  <lib id="apache-mime4j-dom">
+    <kw>org.apache.james.mime4j.</kw>
+  </lib>
+  <lib id="cobertura">
+    <kw>net.sourceforge.cobertura.</kw>
+  </lib>
+  <lib id="myproxy">
+    <kw>org.globus.myproxy.</kw>
+  </lib>
+  <lib id="snappy-java">
+    <kw>org.xerial.snappy.</kw>
+  </lib>
+  <lib id="simple">
+    <kw>org.simpleframework.</kw>
+  </lib>
+  <lib id="concordion">
+    <kw>org.concordion.</kw>
+  </lib>
+  <lib id="util-multicaster">
+    <kw>org.freecompany.util.multicaster.</kw>
+  </lib>
+  <lib id="loopy">
+    <kw>net.didion.loopy.</kw>
+  </lib>
+  <lib id="jxr-maven-plugin">
+    <kw>org.apache.maven.plugin.jxr.</kw>
+  </lib>
+  <lib id="logging-api">
+    <kw>org.ocpsoft.logging.</kw>
+  </lib>
+  <lib id="spring">
+    <kw>org.springframework.</kw>
+  </lib>
+  <lib id="taglist-maven-plugin">
+    <kw>org.codehaus.mojo.taglist.</kw>
+  </lib>
+  <lib id="cas-client">
+    <kw>org.jasig.cas.client.</kw>
+  </lib>
+  <lib id="commons-vfs">
+    <kw>org.apache.commons.vfs.</kw>
+  </lib>
+  <lib id="hbase">
+    <kw>org.apache.hbase.</kw>
+  </lib>
+  <lib id="gitana">
+    <kw>org.gitana.</kw>
+  </lib>
+  <lib id="barcode4j">
+    <kw>org.krysalis.barcode4j.</kw>
+  </lib>
+  <lib id="wro4j">
+    <kw>ro.isdc.wro.</kw>
+  </lib>
+  <lib id="wikitext">
+    <kw>org.eclipse.mylyn.internal.wikitext.core.</kw>
+    <kw>org.eclipse.mylyn.wikitext.core.</kw>
+  </lib>
+  <lib id="commons-daemon">
+    <kw>org.apache.commons.daemon.</kw>
+  </lib>
+  <lib id="melati">
+    <kw>org.melati.</kw>
+  </lib>
+  <lib id="kotlin-runtime">
+    <kw>jet.</kw>
+  </lib>
+  <lib id="sonatype-tests">
+    <kw>org.sonatype.tests.http.</kw>
+  </lib>
+  <lib id="org.eclipse.swt">
+    <kw>org.eclipse.swt.</kw>
+  </lib>
+  <lib id="netty">
+    <kw>io.netty.</kw>
+  </lib>
+  <lib id="uportal">
+    <kw>org.jasig.portal.</kw>
+  </lib>
+  <lib id="fastutil">
+    <kw>it.unimi.dsi.fastutil.</kw>
+  </lib>
+  <lib id="jpack">
+    <kw>com.monits.jpack.</kw>
+  </lib>
+  <lib id="fluent-logger">
+    <kw>org.fluentd.logger.</kw>
+  </lib>
+  <lib id="slick">
+    <kw>org.newdawn.slick.</kw>
+  </lib>
+  <lib id="xsd">
+    <kw>org.eclipse.xsd.</kw>
+  </lib>
+  <lib id="svnkit">
+    <kw>org.tmatesoft.svn.</kw>
+  </lib>
+  <lib id="util-hashing">
+    <kw>com.twitter.hashing.</kw>
+  </lib>
+  <lib id="slf4j">
+    <kw>org.slf4j.</kw>
+  </lib>
+  <lib id="db-migration">
+    <kw>com.carbonfive.db.migration.</kw>
+  </lib>
+  <lib id="porter-stemmer">
+    <kw>org.tartarus.martin.</kw>
+  </lib>
+  <lib id="xalan">
+    <kw>org.apache.xpath.domapi.</kw>
+    <kw>org.apache.xalan</kw>
+  </lib>
+  <lib id="peaberry">
+    <kw>org.ops4j.peaberry.</kw>
+  </lib>
+  <lib id="http-self-wrap-proxy-client">
+    <kw>com.xmxsuperstar.app.hswp.client.</kw>
+  </lib>
+  <lib id="dspace-geoip">
+    <kw>com.maxmind.geoip.</kw>
+  </lib>
+  <lib id="scalate">
+    <kw>org.fusesource.scalate.</kw>
+  </lib>
+  <lib id="bson4jackson">
+    <kw>de.undercouch.bson4jackson.</kw>
+  </lib>
+  <lib id="gdata">
+    <kw>com.google.gdata.</kw>
+  </lib>
+  <lib id="jts">
+    <kw>com.vividsolutions.jts</kw>
+  </lib>
+  <lib id="easymock">
+    <kw>org.easymock.</kw>
+  </lib>
+  <lib id="xpp3">
+    <kw>org.xmlpull.</kw>
+  </lib>
+  <lib id="org.eclipse.jface">
+    <kw>org.eclipse.jface.</kw>
+  </lib>
+  <lib id="itext">
+    <kw>com.itextpdf.</kw>
+    <kw>com.lowagie.</kw>
+  </lib>
+  <lib id="td-client">
+    <kw>com.treasure_data.</kw>
+  </lib>
+  <lib id="pellet">
+    <kw>org.mindswap.pellet</kw>
+    <kw>com.clarkparsia.pellet</kw>
+  </lib>
+  <lib id="jug">
+    <kw>org.safehaus.</kw>
+    <kw>com.ccg.net.ethernet.</kw>
+  </lib>
+  <lib id="savara">
+    <kw>org.savara.</kw>
+  </lib>
+  <lib id="multithreadedtc">
+    <kw>edu.umd.cs.mtc.</kw>
+  </lib>
+  <lib id="weka">
+    <kw>weka.</kw>
+  </lib>
+  <lib id="sitemesh">
+    <kw>org.sitemesh.</kw>
+  </lib>
+  <lib id="easybox">
+    <kw>com.ebmwebsourcing.easybox.</kw>
+  </lib>
+  <lib id="ow2-jpa">
+    <kw>org.ow2.spec.ee.jpa.</kw>
+  </lib>
+  <lib id="jFormatString">
+    <kw>edu.umd.cs.findbugs.formatStringChecker.</kw>
+  </lib>
+  <lib id="aopalliance">
+    <kw>org.aopalliance.</kw>
+  </lib>
+  <lib id="udunits">
+    <kw>ucar.units.</kw>
+  </lib>
+  <lib id="jxades">
+    <kw>net.java.xades.</kw>
+  </lib>
+  <lib id="ognl">
+    <kw>ognl.</kw>
+  </lib>
+  <lib id="runtime-error-library">
+    <kw>org.ebayopensource.turmeric.runtime.errorlibrary.</kw>
+  </lib>
+  <lib id="spiffyui">
+    <kw>org.spiffyui.</kw>
+  </lib>
+  <lib id="neethi">
+    <kw>org.apache.neethi.</kw>
+  </lib>
+  <lib id="jide-oss">
+    <kw>com.jidesoft.</kw>
+  </lib>
+  <lib id="cal10n-api">
+    <kw>ch.qos.cal10n.</kw>
+  </lib>
+  <lib id="t2">
+    <kw>ch.agent.t2.</kw>
+  </lib>
+  <lib id="libthrift">
+    <kw>org.apache.thrift.</kw>
+  </lib>
+  <lib id="logkit">
+    <kw>org.apache.log.</kw>
+  </lib>
+  <lib id="weld">
+    <kw>org.jboss.weld.</kw>
+  </lib>
+  <lib id="android">
+    <kw>android.</kw>
+  </lib>
+  <lib id="onebusaway-gtfs">
+    <kw>org.onebusaway.gtfs.</kw>
+  </lib>
+  <lib id="stax2-api">
+    <kw>org.codehaus.stax2.</kw>
+  </lib>
+  <lib id="exoplatform">
+    <kw>org.exoplatform.</kw>
+  </lib>
+  <lib id="compass">
+    <kw>org.compass.</kw>
+  </lib>
+  <lib id="continuous-testing-toolkit">
+    <kw>org.infinitest.toolkit.</kw>
+  </lib>
+  <lib id="ormlite">
+    <kw>com.j256.ormlite.</kw>
+  </lib>
+  <lib id="htmlparser">
+    <kw>org.htmlparser.</kw>
+  </lib>
+  <lib id="easyvprop20-api">
+    <kw>com.ebmwebsourcing.easyvprop20.api.</kw>
+  </lib>
+  <lib id="unoil">
+    <kw>drafts.com.sun.star.form.</kw>
+  </lib>
+  <lib id="mchange-commons-java">
+    <kw>com.mchange.</kw>
+  </lib>
+  <lib id="commons-jelly-tags-velocity">
+    <kw>org.apache.commons.jelly.tags.velocity.</kw>
+  </lib>
+  <lib id="operadriver">
+    <kw>com.opera.core.systems.</kw>
+  </lib>
+  <lib id="oscache">
+    <kw>com.opensymphony.oscache.</kw>
+  </lib>
+  <lib id="commons-lang">
+    <kw>org.apache.commons.lang</kw>
+  </lib>
+  <lib id="webbit">
+    <kw>org.webbitserver.</kw>
+  </lib>
+  <lib id="bridj">
+    <kw>org.bridj.</kw>
+  </lib>
+  <lib id="hazelcast">
+    <kw>com.hazelcast.</kw>
+  </lib>
+  <lib id="AppleJavaExtensions">
+    <kw>com.apple.</kw>
+  </lib>
+  <lib id="trove4j">
+    <kw>gnu.trove.</kw>
+  </lib>
+  <lib id="synthetica">
+    <kw>de.javasoft.</kw>
+  </lib>
+  <lib id="forester">
+    <kw>org.forester.</kw>
+  </lib>
+  <lib id="units">
+    <kw>com.proofpoint.units.</kw>
+  </lib>
+  <lib id="edu.purdue.cs.bloat">
+    <kw>EDU.purdue.cs.bloat.</kw>
+  </lib>
+  <lib id="xom">
+    <kw>nu.xom.</kw>
+  </lib>
+  <lib id="scribble">
+    <kw>org.scribble.</kw>
+  </lib>
+  <lib id="jra">
+    <kw>org.codehaus.jra.</kw>
+  </lib>
+  <lib id="jgraphx">
+    <kw>com.mxgraph.</kw>
+  </lib>
+  <lib id="server">
+    <kw>org.jppf.</kw>
+  </lib>
+  <lib id="neo4j">
+    <kw>org.neo4j.</kw>
+  </lib>
+  <lib id="xuggle-xuggler">
+    <kw>com.xuggle.</kw>
+  </lib>
+  <lib id="jgrapht">
+    <kw>org.jgrapht.</kw>
+  </lib>
+  <lib id="serial">
+    <kw>serial.</kw>
+  </lib>
+  <lib id="samskivert">
+    <kw>com.samskivert.</kw>
+  </lib>
+  <lib id="pax-exam-testforge">
+    <kw>org.ops4j.pax.exam.testforge.</kw>
+  </lib>
+  <lib id="gentlyweb-utils">
+    <kw>com.gentlyweb.utils.</kw>
+  </lib>
+  <lib id="geronimo">
+    <kw>org.apache.geronimo.</kw>
+  </lib>
+  <lib id="test">
+    <kw>jfcommon.test.</kw>
+  </lib>
+  <lib id="libfb303">
+    <kw>com.facebook.fb303.</kw>
+  </lib>
+  <lib id="dumbster">
+    <kw>com.dumbster.smtp.</kw>
+  </lib>
+  <lib id="org.wikimodel.wem">
+    <kw>org.wikimodel.wem.</kw>
+  </lib>
+  <lib id="vboxjws">
+    <kw>org.virtualbox_4_</kw>
+  </lib>
+  <lib id="json-rpc">
+    <kw>com.metaparadigm.jsonrpc.</kw>
+  </lib>
+  <lib id="scalatest">
+    <kw>org.scalatest.</kw>
+  </lib>
+  <lib id="scannotation">
+    <kw>org.scannotation.</kw>
+  </lib>
+  <lib id="equalsverifier">
+    <kw>nl.jqno.equalsverifier.</kw>
+  </lib>
+  <lib id="slide-webdavlib">
+    <kw>org.apache.webdav.</kw>
+  </lib>
+  <lib id="fop">
+    <kw>org.apache.fop.</kw>
+  </lib>
+  <lib id="cvsclient">
+    <kw>org.netbeans.lib.cvsclient.</kw>
+  </lib>
+  <lib id="commons-modeler">
+    <kw>org.apache.commons.modeler.</kw>
+  </lib>
+  <lib id="gsindl">
+    <kw>grith.gsindl.</kw>
+  </lib>
+  <lib id="lucene-snowball">
+    <kw>org.tartarus.snowball.</kw>
+  </lib>
+  <lib id="freebase-java">
+    <kw>com.freebase.</kw>
+  </lib>
+  <lib id="localizer">
+    <kw>org.jvnet.localizer.</kw>
+  </lib>
+  <lib id="jawin">
+    <kw>org.jawin.</kw>
+  </lib>
+  <lib id="wrapper">
+    <kw>org.tanukisoftware.wrapper.</kw>
+  </lib>
+  <lib id="morphia">
+    <kw>com.google.code.morphia.</kw>
+    <kw>relocated.morphia.org.apache.commons.collections.</kw>
+    <kw>com.google.code.morphia.logging.slf4j.</kw>
+  </lib>
+  <lib id="config">
+    <kw>org.jvnet.hk2.config.</kw>
+  </lib>
+  <lib id="classpath-explorer">
+    <kw>com.google.classpath.</kw>
+  </lib>
+  <lib id="cuke4duke">
+    <kw>cuke4duke.</kw>
+  </lib>
+  <lib id="stax-ex">
+    <kw>org.jvnet.staxex.</kw>
+  </lib>
+  <lib id="arq">
+    <kw>arq.</kw>
+  </lib>
+  <lib id="jettison">
+    <kw>org.codehaus.jettison.</kw>
+  </lib>
+  <lib id="shale">
+    <kw>org.apache.shale.</kw>
+  </lib>
+  <lib id="joda-convert">
+    <kw>org.joda.convert.</kw>
+  </lib>
+  <lib id="experimental">
+    <kw>com.proofpoint.experimental.</kw>
+  </lib>
+  <lib id="atmosphere">
+    <kw>org.atmosphere.</kw>
+  </lib>
+  <lib id="jj-wikitext">
+    <kw>jj.play.org.eclipse.mylyn.</kw>
+  </lib>
+  <lib id="gwt-vl">
+    <kw>eu.maydu.gwt.validation.</kw>
+  </lib>
+  <lib id="accumulo">
+    <kw>org.apache.accumulo.</kw>
+  </lib>
+  <lib id="jnr-x86asm">
+    <kw>jnr.x86asm.</kw>
+    <kw>com.kenai.jnr.x86asm.</kw>
+  </lib>
+  <lib id="TableLayout">
+    <kw>info.clearthought.layout.</kw>
+  </lib>
+  <lib id="maxent">
+    <kw>opennlp.maxent.</kw>
+  </lib>
+  <lib id="smartsprites">
+    <kw>org.carrot2.</kw>
+  </lib>
+  <lib id="axiom">
+    <kw>org.apache.axiom.</kw>
+  </lib>
+  <lib id="commons-betwixt">
+    <kw>org.apache.commons.betwixt.</kw>
+  </lib>
+  <lib id="winp">
+    <kw>org.jvnet.winp.</kw>
+  </lib>
+  <lib id="commons-management">
+    <kw>org.fusesource.commons.management.</kw>
+  </lib>
+  <lib id="axion">
+    <kw>org.axiondb.</kw>
+  </lib>
+  <lib id="mimepull">
+    <kw>org.jvnet.mimepull.</kw>
+  </lib>
+  <lib id="asm">
+    <kw>org.objectweb.asm.</kw>
+  </lib>
+  <lib id="jlog">
+    <kw>ubc.cs.JLog.</kw>
+  </lib>
+  <lib id="jgridshift">
+    <kw>au.com.objectix.jgridshift.</kw>
+  </lib>
+  <lib id="oro">
+    <kw>org.apache.oro.</kw>
+  </lib>
+  <lib id="jedis">
+    <kw>redis.clients.</kw>
+  </lib>
+  <lib id="com.noelios.restlet">
+    <kw>com.noelios.restlet.</kw>
+  </lib>
+  <lib id="tagsoup">
+    <kw>org.ccil.cowan.tagsoup.</kw>
+  </lib>
+  <lib id="cargo">
+    <kw>org.codehaus.cargo.</kw>
+  </lib>
+  <lib id="grid-jcommons">
+    <kw>grisu.jcommons.</kw>
+  </lib>
+  <lib id="jnp-client">
+    <kw>org.jnp.interfaces.j</kw>
+  </lib>
+  <lib id="gwt-dispatch">
+    <kw>net.customware.gwt.dispatch.</kw>
+  </lib>
+  <lib id="scale7-core">
+    <kw>org.scale7.</kw>
+  </lib>
+  <lib id="nist-sdp">
+    <kw>gov.nist.javax.sdp.</kw>
+  </lib>
+  <lib id="test-interface">
+    <kw>org.scalatools.testing.</kw>
+  </lib>
+  <lib id="javaswf-CVS-SNAPSHOT">
+    <kw>com.anotherbigidea.</kw>
+  </lib>
+  <lib id="jyaml">
+    <kw>org.ho.</kw>
+  </lib>
+  <lib id="mock-socket">
+    <kw>net.javacrumbs.mocksocket.</kw>
+  </lib>
+  <lib id="velocity">
+    <kw>org.apache.velocity.</kw>
+  </lib>
+  <lib id="jempbox">
+    <kw>org.jempbox.</kw>
+    <kw>org.apache.jempbox</kw>
+  </lib>
+  <lib id="tiger-types">
+    <kw>org.jvnet.tiger_types.</kw>
+  </lib>
+  <lib id="gmbal-api-only">
+    <kw>org.glassfish.gmbal.</kw>
+  </lib>
+  <lib id="AuthenticationService">
+    <kw>org.ebayopensource.turmeric.services.authenticationservice.intf.</kw>
+  </lib>
+  <lib id="SecurityErrorLibrary">
+    <kw>org.ebayopensource.turmeric.errorlibrary.turmericsecurity.</kw>
+  </lib>
+  <lib id="ioncore-java">
+    <kw>ion.</kw>
+  </lib>
+  <lib id="jardiff">
+    <kw>org.osjava.jardiff.</kw>
+  </lib>
+  <lib id="balloontip">
+    <kw>net.java.balloontip.</kw>
+  </lib>
+  <lib id="webmacro">
+    <kw>org.webmacro.</kw>
+  </lib>
+  <lib id="finagle">
+    <kw>com.twitter.</kw>
+  </lib>
+  <lib id="tdb">
+    <kw>tdb.</kw>
+  </lib>
+  <lib id="jena-arq">
+    <kw>org.openjena.</kw>
+  </lib>
+  <lib id="xstream">
+    <kw>com.thoughtworks.xstream.</kw>
+  </lib>
+  <lib id="jetty-mortbay">
+    <kw>org.eclipse.jetty.</kw>
+    <kw>org.mortbay.</kw>
+  </lib>
+  <lib id="xmltool">
+    <kw>com.mycila.xmltool.</kw>
+    <kw>com.google.code.xmltool.</kw>
+  </lib>
+  <lib id="riak-client">
+    <kw>com.basho.riak.</kw>
+  </lib>
+  <lib id="xmlunit">
+    <kw>org.custommonkey.xmlunit.</kw>
+  </lib>
+  <lib id="querydsl">
+    <kw>com.mysema.</kw>
+  </lib>
+  <lib id="specs_2.9.1">
+    <kw>org.spe</kw>
+  </lib>
+  <lib id="config-validation-tests">
+    <kw>org.ebayopensource.turmeric.runtime.config.validation.</kw>
+  </lib>
+  <lib id="zookeeper">
+    <kw>org.apache.zookeeper.</kw>
+  </lib>
+  <lib id="yuicompressor">
+    <kw>com.yahoo.platform.yui.compressor.</kw>
+  </lib>
+  <lib id="mvel2">
+    <kw>org.mvel2.</kw>
+  </lib>
+  <lib id="jcouchdb">
+    <kw>org.jcouchdb.</kw>
+  </lib>
+  <lib id="j-interop">
+    <kw>org.jinterop.</kw>
+  </lib>
+  <lib id="t2-server-client">
+    <kw>uk.org.taverna.server.client.</kw>
+  </lib>
+  <lib id="fitnesse">
+    <kw>fitnesse.</kw>
+  </lib>
+  <lib id="antisamy">
+    <kw>org.owasp.validator.</kw>
+  </lib>
+  <lib id="wsrf-r-datatypes-api">
+    <kw>com.ebmwebsourcing.wsstar.resource.datatypes.api.</kw>
+  </lib>
+  <lib id="mybatis">
+    <kw>org.apache.ibatis.</kw>
+    <kw>org.mybatis.</kw>
+  </lib>
+  <lib id="bukkit">
+    <kw>org.bukkit.</kw>
+  </lib>
+  <lib id="jakarta-regexp">
+    <kw>org.apache.regexp.</kw>
+  </lib>
+  <lib id="mysema-commons-lang">
+    <kw>com.mysema.commons.lang.</kw>
+  </lib>
+  <lib id="wsrf-rp-services">
+    <kw>com.ebmwebsourcing.wsstar.wsrfrp.services.</kw>
+  </lib>
+  <lib id="voldemort">
+    <kw>voldemort.</kw>
+  </lib>
+  <lib id="wstx-asl">
+    <kw>com.ctc.wstx.</kw>
+  </lib>
+  <lib id="tools">
+    <kw>opennlp.tools.</kw>
+  </lib>
+  <lib id="gstreamer-java">
+    <kw>org.gstreamer.</kw>
+  </lib>
+  <lib id="protobuf-java">
+    <kw>com.google.protobuf.</kw>
+  </lib>
+  <lib id="ftpserver">
+    <kw>org.apache.ftpserver.</kw>
+  </lib>
+  <lib id="jj-imaging">
+    <kw>jj.play.ns.com.jhlabs.</kw>
+  </lib>
+  <lib id="jdom">
+    <kw>org.jdom</kw>
+  </lib>
+  <lib id="shiro">
+    <kw>org.apache.shiro.</kw>
+  </lib>
+  <lib id="jcaptcha">
+    <kw>com.octo.captcha.</kw>
+  </lib>
+  <lib id="jandex">
+    <kw>org.jboss.jandex.</kw>
+  </lib>
+  <lib id="easyj-orm">
+    <kw>org.easyj.orm.</kw>
+  </lib>
+  <lib id="struts2">
+    <kw>org.apache.struts2.</kw>
+  </lib>
+  <lib id="compress-lzf">
+    <kw>com.ning.compress.lzf.</kw>
+  </lib>
+  <lib id="visural-common">
+    <kw>com.visural.common.</kw>
+  </lib>
+  <lib id="hifaces20-testing">
+    <kw>org.hisrc.hifaces20.testing.</kw>
+  </lib>
+  <lib id="ldapsdk">
+    <kw>netscape.ldap.</kw>
+    <kw>com.netscape.</kw>
+  </lib>
+  <lib id="cryptix">
+    <kw>cryptix.</kw>
+  </lib>
+  <lib id="jazzy">
+    <kw>com.swabunga.</kw>
+  </lib>
+  <lib id="netlib-java">
+    <kw>org.netlib.</kw>
+  </lib>
+  <lib id="libvirt">
+    <kw>org.libvirt.</kw>
+  </lib>
+  <lib id="piccolo2d">
+    <kw>edu.umd.cs.piccolo</kw>
+  </lib>
+  <lib id="ops4j">
+    <kw>org.ops4j.</kw>
+  </lib>
+  <lib id="qdox">
+    <kw>com.thoughtworks.qdox.</kw>
+  </lib>
+  <lib id="htmlcompressor">
+    <kw>com.googlecode.htmlcompressor.</kw>
+  </lib>
+  <lib id="jaxrs">
+    <kw>com.proofpoint.jaxrs.</kw>
+  </lib>
+  <lib id="management-api">
+    <kw>org.glassfish.external.</kw>
+  </lib>
+  <lib id="aduna-commons-i18n">
+    <kw>info.aduna.i18n.languagetag.</kw>
+  </lib>
+  <lib id="ecore">
+    <kw>org.eclipse.emf.</kw>
+  </lib>
+  <lib id="BTFJ">
+    <kw>edu.ufl.cise.btf.tdouble.</kw>
+  </lib>
+  <lib id="java-rdfa">
+    <kw>rdfa.</kw>
+    <kw>net.rootdev.javardfa.</kw>
+  </lib>
+  <lib id="stapler">
+    <kw>org.kohsuke.stapler.</kw>
+  </lib>
+  <lib id="ehcache-spring-annotations">
+    <kw>com.googlecode.ehcache.annotations.</kw>
+  </lib>
+  <lib id="greenmail">
+    <kw>com.icegreen.greenmail.</kw>
+  </lib>
+  <lib id="pegdown">
+    <kw>org.pegdown.</kw>
+  </lib>
+  <lib id="jbehave">
+    <kw>org.jbehave.</kw>
+  </lib>
+  <lib id="xml-resolver">
+    <kw>org.apache.xml.resolver.</kw>
+  </lib>
+  <lib id="proxytoys">
+    <kw>com.thoughtworks.proxy.</kw>
+  </lib>
+  <lib id="puretls">
+    <kw>COM.claymoresystems.</kw>
+  </lib>
+  <lib id="anyobject">
+    <kw>mx.bigdata.anyobject.</kw>
+  </lib>
+  <lib id="picocontainer">
+    <kw>org.picocontainer.</kw>
+  </lib>
+  <lib id="carol-interceptors">
+    <kw>org.ow2.carol.rmi.interceptor.</kw>
+  </lib>
+  <lib id="kahadb">
+    <kw>org.apache.kahadb.</kw>
+  </lib>
+  <lib id="practicalxml">
+    <kw>net.sf.practicalxml.</kw>
+  </lib>
+  <lib id="gwt-log">
+    <kw>com.allen_sauer.gwt.log.</kw>
+  </lib>
+  <lib id="shared-dsml-parser">
+    <kw>org.apache.directory.shared.dsmlv2.</kw>
+  </lib>
+  <lib id="org.json">
+    <kw>org.json.</kw>
+  </lib>
+  <lib id="xz">
+    <kw>org.tukaani.xz.</kw>
+  </lib>
+  <lib id="metadata-extractor">
+    <kw>com.drew.</kw>
+  </lib>
+  <lib id="axis2">
+    <kw>org.apache.axis2.</kw>
+  </lib>
+  <lib id="iogi">
+    <kw>br.com.caelum.iogi.</kw>
+  </lib>
+  <lib id="trident">
+    <kw>org.pushingpixels.trident.</kw>
+  </lib>
+  <lib id="apns">
+    <kw>com.notnoop.</kw>
+  </lib>
+  <lib id="jcip-annotations">
+    <kw>net.jcip.annotations.</kw>
+  </lib>
+  <lib id="summer">
+    <kw>com.asual.summer.</kw>
+  </lib>
+  <lib id="tritonus_share">
+    <kw>org.tritonus.share.</kw>
+  </lib>
+  <lib id="petalslink-dsb">
+    <kw>org.petalslink.dsb.</kw>
+  </lib>
+  <lib id="jopt-simple">
+    <kw>joptsimple.</kw>
+  </lib>
+</scanlib>

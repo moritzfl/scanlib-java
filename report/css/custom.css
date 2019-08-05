@@ -1,0 +1,123 @@
+body {
+   font-size:14px;
+}
+
+.add {
+	border:1px solid green;
+}
+
+.del {
+	border:1px solid red;
+}
+
+.mv {
+
+}
+
+.upd {
+	border:1px solid orange;
+}
+
+.symbol {
+	border:0px;
+}
+
+
+.selected {
+	background-c 	olor: lightblue;	
+}
+
+.kind {
+	font-style:italic;
+	font-family:georgia, serif;
+	font-size:11px;
+ 	padding:-1px;
+ 	margin:-1px;
+	height:14px;
+ 	display: inline-block;
+	color:#0B3861;
+}
+
+.popover {
+	width: 500px;
+}
+
+.popover-inner {
+	font-size:60%;
+	width: 500px;
+}
+
+.popover-content {
+	width: 500px;
+}
+
+.tabs {
+	margin: 0px;
+        padding: 0px;
+        border: none;
+	line-height: 14px;
+
+}
+
+.global {
+    margin: 15px;
+    padding: 15px;
+    vertical-align:top; 
+    margin-top:0; 
+}
+
+
+.stat {
+    margin: 15px;
+    padding: 15px;
+    border: none;
+    vertical-align:top; 
+    margin-top:0; 
+    clear: left; float: left; text-align: left;
+}
+
+.stat td {
+    padding: 4px;
+    font-size:11px;
+}
+
+.client {
+    margin: 7px;
+    padding: 7px;
+    border: none;
+    vertical-align:top; 
+    margin-top:0; 
+}
+
+.client td {
+    padding: 2px;
+    font-size:10px;
+}
+
+
+
+
+
+ul.LinkedList { display: block; font-size : 14px;margin-left:11px;}
+
+ul.LinkedList ul { display: none; margin-left:10px;} 
+a:link {color:#FF0000;}  
+a:visited {color:#00FF00;} 
+a:hover {color:#086A87;} 
+a:active {color:#0000FF;}
+.HandCursorStyle { cursor: pointer; cursor: hand;color:#0000FF; }
+ul.LinkedList2 { display: block; font-size : 12px;margin-left:11px;}
+ul.LinkedList2 ul { display: none; }
+ul.LinkedList3 { display: block; font-size : 10px;margin-left:11px;}
+ul.LinkedList3 ul { display: none; }
+
+ul {
+ margin-top:-4px;
+}
+
+li { 
+margin-top: -4px;
+padding: -1px; 
+}
+
+
